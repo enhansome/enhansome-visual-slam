@@ -1,0 +1,182 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Facebook folly PC",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:03:42Z",
+            "owner": "facebook",
+            "repo": "folly",
+            "stars": 30491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "concurrentqueue",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-11T17:15:50Z",
+            "owner": "cameron314",
+            "repo": "concurrentqueue",
+            "stars": 12439
+          }
+        }
+      ],
+      "title": "Thread-safe queue libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ceres-solver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T15:52:06Z",
+            "owner": "ceres-solver",
+            "repo": "ceres-solver",
+            "stars": 4537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2o",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T19:33:29Z",
+            "owner": "RainerKuemmerle",
+            "repo": "g2o",
+            "stars": 3454
+          }
+        }
+      ],
+      "title": "Graph Optimization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OctoMap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-02T17:47:50Z",
+            "owner": "OctoMap",
+            "repo": "octomap",
+            "stars": 2352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ETHZ ASL/Grid Map",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-11-17T14:19:47Z",
+            "owner": "ethz-asl",
+            "repo": "grid_map",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniMapper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-06-26T06:59:25Z",
+            "owner": "CognitiveRobotics",
+            "repo": "omnimapper",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Map library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "evo - evaluation tool for different trajectory formats",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T14:47:49Z",
+            "owner": "MichaelGrupp",
+            "repo": "evo",
+            "stars": 4297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VDO_SLAM - A Visual Object-aware Dynamic SLAM library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-05-25T07:21:24Z",
+            "owner": "halajun",
+            "repo": "VDO_SLAM",
+            "stars": 809
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects"
+    },
+    {
+      "description": "DynaSLAM A SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups\nopenvslam A Versatile Visual SLAM Framework",
+      "items": [],
+      "title": "Other open source projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:01:02.751Z",
+    "original_repository": "tzutalin/awesome-visual-slam",
+    "original_repository_sha": "f07c5a3faa9dc94d5d028f4d7f05aa42da0e0433",
+    "enhanced_repository": "enhansome/enhansome-visual-slam",
+    "enhanced_repository_description": null,
+    "title": "Awesome The list of vision-based SLAM / Visual Odometry open source projects, libraries, dataset, tools, and studies with stars"
+  }
+}
