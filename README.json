@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T02:03:42Z",
             "owner": "facebook",
             "repo": "folly",
-            "stars": 30491
+            "stars": 30492
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-07-11T17:15:50Z",
             "owner": "cameron314",
             "repo": "concurrentqueue",
-            "stars": 12439
+            "stars": 12441
           }
         }
       ],
@@ -53,7 +53,7 @@
             "last_commit": "2026-08-12T15:52:06Z",
             "owner": "ceres-solver",
             "repo": "ceres-solver",
-            "stars": 4537
+            "stars": 4539
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-02T17:47:50Z",
             "owner": "OctoMap",
             "repo": "octomap",
-            "stars": 2352
+            "stars": 2353
           }
         },
         {
@@ -172,7 +172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:01:02.751Z",
+    "last_updated": "2026-08-13T12:35:52.699Z",
     "original_repository": "tzutalin/awesome-visual-slam",
     "original_repository_sha": "f07c5a3faa9dc94d5d028f4d7f05aa42da0e0433",
     "enhanced_repository": "enhansome/enhansome-visual-slam",
