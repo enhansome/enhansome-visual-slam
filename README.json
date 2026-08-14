@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T02:03:42Z",
+            "last_commit": "2026-08-14T04:13:11Z",
             "owner": "facebook",
             "repo": "folly",
             "stars": 30492
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-10T19:33:29Z",
             "owner": "RainerKuemmerle",
             "repo": "g2o",
-            "stars": 3454
+            "stars": 3455
           }
         }
       ],
@@ -172,7 +172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:35:52.699Z",
+    "last_updated": "2026-08-14T12:30:55.977Z",
     "original_repository": "tzutalin/awesome-visual-slam",
     "original_repository_sha": "f07c5a3faa9dc94d5d028f4d7f05aa42da0e0433",
     "enhanced_repository": "enhansome/enhansome-visual-slam",
