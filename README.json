@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T11:01:59Z",
+            "last_commit": "2026-08-16T02:57:04Z",
             "owner": "facebook",
             "repo": "folly",
-            "stars": 30492
+            "stars": 30495
           }
         },
         {
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-10T19:33:29Z",
+            "last_commit": "2026-08-15T17:20:23Z",
             "owner": "RainerKuemmerle",
             "repo": "g2o",
-            "stars": 3456
+            "stars": 3457
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-02T17:47:50Z",
             "owner": "OctoMap",
             "repo": "octomap",
-            "stars": 2353
+            "stars": 2356
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-14T16:14:03Z",
             "owner": "MichaelGrupp",
             "repo": "evo",
-            "stars": 4297
+            "stars": 4298
           }
         },
         {
@@ -172,7 +172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:59:32.167Z",
+    "last_updated": "2026-08-16T12:00:33.235Z",
     "original_repository": "tzutalin/awesome-visual-slam",
     "original_repository_sha": "f07c5a3faa9dc94d5d028f4d7f05aa42da0e0433",
     "enhanced_repository": "enhansome/enhansome-visual-slam",
