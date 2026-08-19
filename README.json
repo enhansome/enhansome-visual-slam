@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 15667250,
                 "language": "C++",
-                "last_commit": "2026-08-19T07:01:06Z",
+                "last_commit": "2026-08-19T12:31:05Z",
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
                 "stars": 4540
@@ -170,7 +170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:21:18.471Z",
+    "last_updated": "2026-08-19T13:00:32.792Z",
     "original_repository": "tzutalin/awesome-visual-slam",
     "original_repository_id": 63038123,
     "original_repository_sha": "f07c5a3faa9dc94d5d028f4d7f05aa42da0e0433",
