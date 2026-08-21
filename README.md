@@ -1,6 +1,6 @@
 # Awesome The list of vision-based SLAM / Visual Odometry open source projects, libraries, dataset, tools, and studies with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,429 | 🐛 3 | 📅 2022-05-10
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,427 | 🐛 3 | 📅 2022-05-10
 
 ## Index
 
@@ -23,8 +23,8 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,503 | 🐛 461 | 🌐 C++ | 📅 2026-08-20
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,452 | 🐛 76 | 🌐 C++ | 📅 2026-07-11
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,505 | 🐛 462 | 🌐 C++ | 📅 2026-08-21
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,455 | 🐛 76 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
 ###### Loop detection
@@ -34,13 +34,13 @@
 ###### Graph Optimization
 
 * [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,541 | 🐛 68 | 🌐 C++ | 📅 2026-08-19
-* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,458 | 🐛 7 | 🌐 C++ | 📅 2026-08-18
+* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,457 | 🐛 7 | 🌐 C++ | 📅 2026-08-18
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
 
 ###### Map library
 
-* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,359 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
+* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,361 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
 * [ETHZ ASL/Grid Map](https://github.com/ethz-asl/grid_map) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2023-11-17
 * [OmniMapper](https://github.com/CognitiveRobotics/omnimapper/wiki) ⭐ 1 | 🐛 0 | 📅 2018-06-26
 
@@ -62,7 +62,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Tools
 
-* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,301 | 🐛 8 | 🌐 Python | 📅 2026-08-14
+* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,303 | 🐛 8 | 🌐 Python | 📅 2026-08-14
 * [VDO\_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) ⭐ 809 | 🐛 27 | 🌐 C++ | 📅 2023-05-25
 * [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 
@@ -84,12 +84,12 @@ Dataset for benchmark/test/experiment/evalutation
 > Direct Sparse Odometry, J. Engel, V. Koltun, D. Cremers, In arXiv:1607.02565, 2016
 > A Photometrically Calibrated Benchmark For Monocular Visual Odometry, J. Engel, V. Usenko, D. Cremers, In arXiv:1607.02555, 2016
 
-* [LSD-SLAM](https://github.com/tum-vision/lsd_slam) ⭐ 2,720 | 🐛 240 | 🌐 C++ | 📅 2023-03-23. Available on ROS
+* [LSD-SLAM](https://github.com/tum-vision/lsd_slam) ⭐ 2,721 | 🐛 240 | 🌐 C++ | 📅 2023-03-23. Available on ROS
 
 > LSD-SLAM: Large-Scale Direct Monocular SLAM, J. Engel, T. Schöps, D. Cremers, ECCV '14
 > Semi-Dense Visual Odometry for a Monocular Camera, J. Engel, J. Sturm, D. Cremers, ICCV '13
 
-* [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) ⭐ 1,630 | 🐛 121 | 🌐 C++ | 📅 2022-09-18. Available on ROS
+* [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) ⭐ 1,632 | 🐛 121 | 🌐 C++ | 📅 2022-09-18. Available on ROS
 
 > \[1] Raúl Mur-Artal, J. M. M. Montiel and Juan D. Tardós. ORB-SLAM: A Versatile and Accurate Monocular SLAM System. IEEE > Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, 2015. (2015 IEEE Transactions on Robotics Best Paper Award). PDF.
 > \[2] Dorian Gálvez-López and Juan D. Tardós. Bags of Binary Words for Fast Place Recognition in Image Sequences. IEEE > Transactions on Robotics, vol. 28, no. 5, pp. 1188-1197, 2012. PDF.
@@ -114,12 +114,12 @@ Dataset for benchmark/test/experiment/evalutation
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 3,951 | 🐛 578 | 🌐 C++ | 📅 2026-08-20. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 3,954 | 🐛 578 | 🌐 C++ | 📅 2026-08-21. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
 
-* [ORB2-SLAM](https://github.com/raulmur/ORB_SLAM2) ⭐ 10,214 | 🐛 805 | 🌐 C++ | 📅 2024-05-15. Available on ROS
+* [ORB2-SLAM](https://github.com/raulmur/ORB_SLAM2) ⭐ 10,217 | 🐛 805 | 🌐 C++ | 📅 2024-05-15. Available on ROS
 
 > \[1] Raúl Mur-Artal, J. M. M. Montiel and Juan D. Tardós. ORB-SLAM: A Versatile and Accurate Monocular SLAM System. IEEE > Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, 2015. (2015 IEEE Transactions on Robotics Best Paper Award).
 > \[2] Dorian Gálvez-López and Juan D. Tardós. Bags of Binary Words for Fast Place Recognition in Image Sequences. IEEE Transactions on Robotics, vol. 28, no. 5, pp. 1188-1197, 2012.
@@ -132,7 +132,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 > Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion, T. Whelan, M. Kaess, H. Johannsson, M.F. Fallon, J. J. Leonard and J.B. McDonald, IJRR '14
 
-* [ElasticFusion](https://github.com/mp3guy/ElasticFusion) ⭐ 1,926 | 🐛 4 | 🌐 C++ | 📅 2025-08-03
+* [ElasticFusion](https://github.com/mp3guy/ElasticFusion) ⭐ 1,927 | 🐛 4 | 🌐 C++ | 📅 2025-08-03
 
 > \[1] ElasticFusion: Real-Time Dense SLAM and Light Source Estimation, T. Whelan, R. F. Salas-Moreno, B. Glocker, A. J. Davison and S. Leutenegger, IJRR '16
 > \[2] ElasticFusion: Dense SLAM Without A Pose Graph, T. Whelan, S. Leutenegger, R. F. Salas-Moreno, B. Glocker and A. J. Davison, RSS '15
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
