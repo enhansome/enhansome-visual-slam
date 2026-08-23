@@ -17,14 +17,14 @@
 
 * [OpenCV](http://opencv.org/)
 * [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
-* [Sophus](https://github.com/strasdat/Sophus) ⭐ 2,446 | 🐛 15 | 🌐 C++ | 📅 2024-07-06
+* [Sophus](https://github.com/strasdat/Sophus) ⭐ 2,447 | 🐛 15 | 🌐 C++ | 📅 2024-07-06
 * [ROS](http://www.ros.org/)
 * [PointCloud](http://pointclouds.org/)
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,506 | 🐛 463 | 🌐 C++ | 📅 2026-08-22
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,458 | 🐛 76 | 🌐 C++ | 📅 2026-07-11
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,508 | 🐛 462 | 🌐 C++ | 📅 2026-08-22
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,459 | 🐛 76 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
 ###### Loop detection
@@ -33,14 +33,14 @@
 
 ###### Graph Optimization
 
-* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,542 | 🐛 68 | 🌐 C++ | 📅 2026-08-19
-* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,457 | 🐛 7 | 🌐 C++ | 📅 2026-08-18
+* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,543 | 🐛 68 | 🌐 C++ | 📅 2026-08-19
+* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,458 | 🐛 7 | 🌐 C++ | 📅 2026-08-18
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
 
 ###### Map library
 
-* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,361 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
+* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,362 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
 * [ETHZ ASL/Grid Map](https://github.com/ethz-asl/grid_map) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2023-11-17
 * [OmniMapper](https://github.com/CognitiveRobotics/omnimapper/wiki) ⭐ 1 | 🐛 0 | 📅 2018-06-26
 
@@ -108,13 +108,13 @@ Dataset for benchmark/test/experiment/evalutation
 
 > Real-Time Visual Odometry from Dense RGB-D Images, F. Steinbucker, J. Strum, D. Cremers, ICCV, 2011
 
-* [Dense Visual SLAM for RGB-D Cameras](https://github.com/tum-vision/dvo_slam) ⭐ 668 | 🐛 53 | 🌐 C++ | 📅 2016-09-21. Available on ROS
+* [Dense Visual SLAM for RGB-D Cameras](https://github.com/tum-vision/dvo_slam) ⭐ 667 | 🐛 53 | 🌐 C++ | 📅 2016-09-21. Available on ROS
 
 > \[1]Dense Visual SLAM for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the Int. Conf. on Intelligent Robot Systems (IROS), 2013.
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 3,957 | 🐛 579 | 🌐 C++ | 📅 2026-08-21. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 3,959 | 🐛 580 | 🌐 C++ | 📅 2026-08-23. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
