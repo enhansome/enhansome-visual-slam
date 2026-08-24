@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 4524181,
                 "language": "C++",
-                "last_commit": "2026-08-22T16:36:31Z",
+                "last_commit": "2026-08-24T12:02:10Z",
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30508
+                "stars": 30507
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-11T17:15:50Z",
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12459
+                "stars": 12462
               }
             }
           ],
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-19T16:02:05Z",
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4543
+                "stars": 4544
               }
             },
             {
@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 3161336,
                 "language": "C++",
-                "last_commit": "2026-08-18T16:06:30Z",
+                "last_commit": "2026-08-23T19:39:56Z",
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3458
+                "stars": 3460
               }
             }
           ],
@@ -91,7 +91,7 @@
                 "last_commit": "2026-08-02T17:47:50Z",
                 "owner": "OctoMap",
                 "repo": "octomap",
-                "stars": 2362
+                "stars": 2363
               }
             },
             {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-14T16:14:03Z",
             "owner": "MichaelGrupp",
             "repo": "evo",
-            "stars": 4303
+            "stars": 4307
           }
         },
         {
@@ -170,7 +170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T12:00:55.287Z",
+    "last_updated": "2026-08-24T12:15:56.581Z",
     "original_repository": "tzutalin/awesome-visual-slam",
     "original_repository_id": 63038123,
     "original_repository_sha": "f07c5a3faa9dc94d5d028f4d7f05aa42da0e0433",
