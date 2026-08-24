@@ -15,15 +15,15 @@
 
 ###### Basic vision and trasformation libraries
 
+* [Sophus](https://github.com/strasdat/Sophus) ⭐ 2,447 | 🐛 15 | 🌐 C++ | 📅 2024-07-06
 * [OpenCV](http://opencv.org/)
 * [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
-* [Sophus](https://github.com/strasdat/Sophus) ⭐ 2,447 | 🐛 15 | 🌐 C++ | 📅 2024-07-06
 * [ROS](http://www.ros.org/)
 * [PointCloud](http://pointclouds.org/)
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,507 | 🐛 462 | 🌐 C++ | 📅 2026-08-24
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,508 | 🐛 462 | 🌐 C++ | 📅 2026-08-24
 * [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,462 | 🐛 76 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
@@ -62,7 +62,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Tools
 
-* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,307 | 🐛 8 | 🌐 Python | 📅 2026-08-14
+* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,308 | 🐛 8 | 🌐 Python | 📅 2026-08-14
 * [VDO\_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) ⭐ 809 | 🐛 27 | 🌐 C++ | 📅 2023-05-25
 * [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 
@@ -147,7 +147,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Other open source projects
 
-[DynaSLAM](https://github.com/BertaBescos/DynaSLAM) ⭐ 944 | 🐛 64 | 🌐 C++ | 📅 2020-03-18 A SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups
+[DynaSLAM](https://github.com/BertaBescos/DynaSLAM) ⭐ 945 | 🐛 64 | 🌐 C++ | 📅 2020-03-18 A SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups
 
 [openvslam](https://github.com/xdspacelab/openvslam) ⚠️ Archived A Versatile Visual SLAM Framework
 
