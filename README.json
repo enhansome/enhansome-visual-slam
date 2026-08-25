@@ -54,7 +54,7 @@
                 "last_commit": "2026-07-11T17:15:50Z",
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12463
+                "stars": 12464
               }
             }
           ],
@@ -169,7 +169,7 @@
             "last_commit": "2026-08-14T16:14:03Z",
             "owner": "MichaelGrupp",
             "repo": "evo",
-            "stars": 4308
+            "stars": 4309
           }
         },
         {
@@ -364,7 +364,7 @@
                 "last_commit": "2024-05-15T07:48:28Z",
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10221
+                "stars": 10222
               }
             },
             {
@@ -416,7 +416,7 @@
                 "last_commit": "2024-01-05T19:21:01Z",
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7947
+                "stars": 7948
               }
             }
           ],
@@ -465,7 +465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:59:19.497Z",
+    "last_updated": "2026-08-25T12:16:40.447Z",
     "original_repository": "tzutalin/awesome-visual-slam",
     "original_repository_id": 63038123,
     "original_repository_sha": "f07c5a3faa9dc94d5d028f4d7f05aa42da0e0433",
