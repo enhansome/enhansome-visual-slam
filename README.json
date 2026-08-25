@@ -36,10 +36,10 @@
                 "archived": false,
                 "id": 4524181,
                 "language": "C++",
-                "last_commit": "2026-08-24T12:02:10Z",
+                "last_commit": "2026-08-25T05:04:27Z",
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30508
+                "stars": 30506
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-07-11T17:15:50Z",
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12462
+                "stars": 12463
               }
             }
           ],
@@ -88,7 +88,7 @@
                 "archived": false,
                 "id": 3161336,
                 "language": "C++",
-                "last_commit": "2026-08-23T19:39:56Z",
+                "last_commit": "2026-08-24T19:33:04Z",
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
                 "stars": 3460
@@ -349,7 +349,7 @@
                 "last_commit": "2026-08-24T05:47:40Z",
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 3960
+                "stars": 3963
               }
             },
             {
@@ -465,7 +465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:07:18.331Z",
+    "last_updated": "2026-08-25T05:59:19.497Z",
     "original_repository": "tzutalin/awesome-visual-slam",
     "original_repository_id": 63038123,
     "original_repository_sha": "f07c5a3faa9dc94d5d028f4d7f05aa42da0e0433",

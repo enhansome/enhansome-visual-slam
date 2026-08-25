@@ -1,6 +1,6 @@
 # Awesome The list of vision-based SLAM / Visual Odometry open source projects, libraries, dataset, tools, and studies with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,427 | 🐛 3 | 📅 2022-05-10
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,428 | 🐛 3 | 📅 2022-05-10
 
 ## Index
 
@@ -23,8 +23,8 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,508 | 🐛 462 | 🌐 C++ | 📅 2026-08-24
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,462 | 🐛 76 | 🌐 C++ | 📅 2026-07-11
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,506 | 🐛 462 | 🌐 C++ | 📅 2026-08-25
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,463 | 🐛 76 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
 ###### Loop detection
@@ -34,13 +34,13 @@
 ###### Graph Optimization
 
 * [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,544 | 🐛 68 | 🌐 C++ | 📅 2026-08-19
-* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,460 | 🐛 7 | 🌐 C++ | 📅 2026-08-23
+* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,460 | 🐛 7 | 🌐 C++ | 📅 2026-08-24
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
 
 ###### Map library
 
-* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,363 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
+* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,363 | 🐛 45 | 🌐 C++ | 📅 2026-08-02
 * [ETHZ ASL/Grid Map](https://github.com/ethz-asl/grid_map) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2023-11-17
 * [OmniMapper](https://github.com/CognitiveRobotics/omnimapper/wiki) ⭐ 1 | 🐛 0 | 📅 2018-06-26
 
@@ -62,7 +62,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Tools
 
-* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,308 | 🐛 8 | 🌐 Python | 📅 2026-08-14
+* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,308 | 🐛 9 | 🌐 Python | 📅 2026-08-14
 * [VDO\_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) ⭐ 809 | 🐛 27 | 🌐 C++ | 📅 2023-05-25
 * [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 
@@ -114,7 +114,7 @@ Dataset for benchmark/test/experiment/evalutation
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 3,960 | 🐛 581 | 🌐 C++ | 📅 2026-08-24. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 3,963 | 🐛 582 | 🌐 C++ | 📅 2026-08-24. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
