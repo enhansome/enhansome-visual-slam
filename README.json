@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-06T18:06:55Z",
                 "owner": "strasdat",
                 "repo": "Sophus",
-                "stars": 2447
+                "stars": 2448
               }
             }
           ],
@@ -36,7 +36,7 @@
                 "archived": false,
                 "id": 4524181,
                 "language": "C++",
-                "last_commit": "2026-08-25T05:04:27Z",
+                "last_commit": "2026-08-26T09:35:32Z",
                 "owner": "facebook",
                 "repo": "folly",
                 "stars": 30506
@@ -54,7 +54,7 @@
                 "last_commit": "2026-07-11T17:15:50Z",
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12464
+                "stars": 12466
               }
             }
           ],
@@ -76,7 +76,7 @@
                 "last_commit": "2026-08-19T16:02:05Z",
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4544
+                "stars": 4546
               }
             },
             {
@@ -91,7 +91,7 @@
                 "last_commit": "2026-08-24T19:33:04Z",
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3460
+                "stars": 3461
               }
             }
           ],
@@ -207,7 +207,7 @@
                 "last_commit": "2021-01-30T22:12:14Z",
                 "owner": "MIT-SPARK",
                 "repo": "Kimera",
-                "stars": 2118
+                "stars": 2119
               }
             },
             {
@@ -297,7 +297,7 @@
                 "last_commit": "2019-08-22T21:27:36Z",
                 "owner": "uzh-rpg",
                 "repo": "rpg_svo",
-                "stars": 2228
+                "stars": 2229
               }
             }
           ],
@@ -334,7 +334,7 @@
                 "last_commit": "2016-09-21T19:57:35Z",
                 "owner": "tum-vision",
                 "repo": "dvo_slam",
-                "stars": 668
+                "stars": 669
               }
             },
             {
@@ -349,7 +349,7 @@
                 "last_commit": "2026-08-24T05:47:40Z",
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 3963
+                "stars": 3965
               }
             },
             {
@@ -364,7 +364,7 @@
                 "last_commit": "2024-05-15T07:48:28Z",
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10222
+                "stars": 10223
               }
             },
             {
@@ -465,7 +465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T12:16:40.447Z",
+    "last_updated": "2026-08-26T12:18:16.592Z",
     "original_repository": "tzutalin/awesome-visual-slam",
     "original_repository_id": 63038123,
     "original_repository_sha": "f07c5a3faa9dc94d5d028f4d7f05aa42da0e0433",
