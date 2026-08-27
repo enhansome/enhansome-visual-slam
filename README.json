@@ -36,10 +36,10 @@
                 "archived": false,
                 "id": 4524181,
                 "language": "C++",
-                "last_commit": "2026-08-27T07:36:31Z",
+                "last_commit": "2026-08-27T18:25:40Z",
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30509
+                "stars": 30512
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-07-11T17:15:50Z",
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12469
+                "stars": 12470
               }
             }
           ],
@@ -297,7 +297,7 @@
                 "last_commit": "2019-08-22T21:27:36Z",
                 "owner": "uzh-rpg",
                 "repo": "rpg_svo",
-                "stars": 2229
+                "stars": 2230
               }
             }
           ],
@@ -346,10 +346,10 @@
                 "archived": false,
                 "id": 22850110,
                 "language": "C++",
-                "last_commit": "2026-08-27T03:48:35Z",
+                "last_commit": "2026-08-27T15:56:14Z",
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 3966
+                "stars": 3968
               }
             },
             {
@@ -465,7 +465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:13:55.352Z",
+    "last_updated": "2026-08-27T21:19:20.641Z",
     "original_repository_info": {
       "archived": false,
       "id": 63038123,
