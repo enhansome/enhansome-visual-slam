@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-06T18:06:55Z",
                 "owner": "strasdat",
                 "repo": "Sophus",
-                "stars": 2448
+                "stars": 2449
               }
             }
           ],
@@ -36,10 +36,10 @@
                 "archived": false,
                 "id": 4524181,
                 "language": "C++",
-                "last_commit": "2026-08-26T09:35:32Z",
+                "last_commit": "2026-08-27T07:36:31Z",
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30506
+                "stars": 30509
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-07-11T17:15:50Z",
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12466
+                "stars": 12469
               }
             }
           ],
@@ -76,7 +76,7 @@
                 "last_commit": "2026-08-19T16:02:05Z",
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4546
+                "stars": 4547
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-08-02T17:47:50Z",
                 "owner": "OctoMap",
                 "repo": "octomap",
-                "stars": 2363
+                "stars": 2364
               }
             },
             {
@@ -169,7 +169,7 @@
             "last_commit": "2026-08-14T16:14:03Z",
             "owner": "MichaelGrupp",
             "repo": "evo",
-            "stars": 4309
+            "stars": 4308
           }
         },
         {
@@ -222,7 +222,7 @@
                 "last_commit": "2014-12-03T18:44:47Z",
                 "owner": "Oxford-PTAM",
                 "repo": "PTAM-GPL",
-                "stars": 805
+                "stars": 806
               }
             },
             {
@@ -346,10 +346,10 @@
                 "archived": false,
                 "id": 22850110,
                 "language": "C++",
-                "last_commit": "2026-08-24T05:47:40Z",
+                "last_commit": "2026-08-27T03:48:35Z",
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 3965
+                "stars": 3966
               }
             },
             {
@@ -416,7 +416,7 @@
                 "last_commit": "2024-01-05T19:21:01Z",
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7948
+                "stars": 7949
               }
             }
           ],
@@ -465,9 +465,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T12:18:16.592Z",
-    "original_repository": "tzutalin/awesome-visual-slam",
-    "original_repository_id": 63038123,
+    "last_updated": "2026-08-27T12:13:55.352Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 63038123,
+      "language": null,
+      "last_commit": "2022-05-10T17:57:19Z",
+      "owner": "tzutalin",
+      "repo": "awesome-visual-slam",
+      "stars": 2429
+    },
     "original_repository_sha": "f07c5a3faa9dc94d5d028f4d7f05aa42da0e0433",
     "enhanced_repository": "enhansome/enhansome-visual-slam",
     "enhanced_repository_description": null,
