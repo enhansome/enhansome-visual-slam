@@ -18,7 +18,8 @@
                 "owner": "strasdat",
                 "repo": "Sophus",
                 "stars": 2449
-              }
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             }
           ],
           "description": null,
@@ -36,11 +37,12 @@
                 "archived": false,
                 "id": 4524181,
                 "language": "C++",
-                "last_commit": "2026-08-27T18:25:40Z",
+                "last_commit": "2026-08-28T20:16:21Z",
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30512
-              }
+                "stars": 30513
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             },
             {
               "node_type": "item",
@@ -54,8 +56,9 @@
                 "last_commit": "2026-07-11T17:15:50Z",
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12470
-              }
+                "stars": 12471
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             }
           ],
           "description": null,
@@ -76,8 +79,9 @@
                 "last_commit": "2026-08-19T16:02:05Z",
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4547
-              }
+                "stars": 4548
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             },
             {
               "node_type": "item",
@@ -92,7 +96,8 @@
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
                 "stars": 3461
-              }
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             }
           ],
           "description": null,
@@ -114,7 +119,8 @@
                 "owner": "OctoMap",
                 "repo": "octomap",
                 "stars": 2364
-              }
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             },
             {
               "node_type": "item",
@@ -129,7 +135,8 @@
                 "owner": "ethz-asl",
                 "repo": "grid_map",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             },
             {
               "node_type": "item",
@@ -144,7 +151,8 @@
                 "owner": "CognitiveRobotics",
                 "repo": "omnimapper",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             }
           ],
           "description": null,
@@ -169,8 +177,9 @@
             "last_commit": "2026-08-14T16:14:03Z",
             "owner": "MichaelGrupp",
             "repo": "evo",
-            "stars": 4308
-          }
+            "stars": 4310
+          },
+          "first_seen": "2026-08-28T21:31:54.753Z"
         },
         {
           "node_type": "item",
@@ -185,7 +194,8 @@
             "owner": "halajun",
             "repo": "VDO_SLAM",
             "stars": 809
-          }
+          },
+          "first_seen": "2026-08-28T21:31:54.753Z"
         }
       ],
       "title": "Tools"
@@ -208,7 +218,8 @@
                 "owner": "MIT-SPARK",
                 "repo": "Kimera",
                 "stars": 2119
-              }
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             },
             {
               "node_type": "item",
@@ -223,7 +234,8 @@
                 "owner": "Oxford-PTAM",
                 "repo": "PTAM-GPL",
                 "stars": 806
-              }
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             },
             {
               "node_type": "item",
@@ -238,7 +250,8 @@
                 "owner": "JakobEngel",
                 "repo": "dso_ros",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             },
             {
               "node_type": "item",
@@ -253,7 +266,8 @@
                 "owner": "tum-vision",
                 "repo": "lsd_slam",
                 "stars": 2724
-              }
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             },
             {
               "node_type": "item",
@@ -268,7 +282,8 @@
                 "owner": "raulmur",
                 "repo": "ORB_SLAM",
                 "stars": 1632
-              }
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             },
             {
               "node_type": "item",
@@ -283,7 +298,8 @@
                 "owner": "avisingh599",
                 "repo": "mono-vo",
                 "stars": 821
-              }
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             },
             {
               "node_type": "item",
@@ -298,7 +314,8 @@
                 "owner": "uzh-rpg",
                 "repo": "rpg_svo",
                 "stars": 2230
-              }
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             }
           ],
           "description": "A. Rosinol, M. Abate, Y. Chang, L. Carlone. Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping. arXiv preprint arXiv:1910.02490.\n[1] Georg Klein and David Murray, \"Parallel Tracking and Mapping for Small AR Workspaces\", Proc. ISMAR 2007 [2] Georg Klein and David Murray, \"Improving the Agility of Keyframe-based SLAM\", Proc. ECCV 2008\nDirect Sparse Odometry, J. Engel, V. Koltun, D. Cremers, In arXiv:1607.02565, 2016 A Photometrically Calibrated Benchmark For Monocular Visual Odometry, J. Engel, V. Usenko, D. Cremers, In arXiv:1607.02555, 2016\nLSD-SLAM: Large-Scale Direct Monocular SLAM, J. Engel, T. Schöps, D. Cremers, ECCV '14 Semi-Dense Visual Odometry for a Monocular Camera, J. Engel, J. Sturm, D. Cremers, ICCV '13\n[1] Raúl Mur-Artal, J. M. M. Montiel and Juan D. Tardós. ORB-SLAM: A Versatile and Accurate Monocular SLAM System. IEEE > Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, 2015. (2015 IEEE Transactions on Robotics Best Paper Award). PDF. [2] Dorian Gálvez-López and Juan D. Tardós. Bags of Binary Words for Fast Place Recognition in Image Sequences. IEEE > Transactions on Robotics, vol. 28, no. 5, pp. 1188-1197, 2012. PDF.\nD. Nister, “An efficient solution to the five-point relative pose problem,” Pattern Analysis and Machine Intelligence, IEEE Transactions on, vol. 26, no. 6, pp. 756–770, 2004.\nChristian Forster, Matia Pizzoli, Davide Scaramuzza, \"SVO: Fast Semi-direct Monocular Visual Odometry,\" IEEE International Conference on Robotics and Automation, 2014.",
@@ -320,7 +337,8 @@
                 "owner": "tzutalin",
                 "repo": "OpenCV-RgbdOdometry",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             },
             {
               "node_type": "item",
@@ -335,7 +353,8 @@
                 "owner": "tum-vision",
                 "repo": "dvo_slam",
                 "stars": 669
-              }
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             },
             {
               "node_type": "item",
@@ -349,8 +368,9 @@
                 "last_commit": "2026-08-27T15:56:14Z",
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 3968
-              }
+                "stars": 3973
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             },
             {
               "node_type": "item",
@@ -364,8 +384,9 @@
                 "last_commit": "2024-05-15T07:48:28Z",
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10223
-              }
+                "stars": 10224
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             },
             {
               "node_type": "item",
@@ -380,7 +401,8 @@
                 "owner": "mp3guy",
                 "repo": "Kintinuous",
                 "stars": 954
-              }
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             },
             {
               "node_type": "item",
@@ -394,8 +416,9 @@
                 "last_commit": "2025-08-03T10:04:09Z",
                 "owner": "mp3guy",
                 "repo": "ElasticFusion",
-                "stars": 1927
-              }
+                "stars": 1928
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             }
           ],
           "description": "Real-Time Visual Odometry from Dense RGB-D Images, F. Steinbucker, J. Strum, D. Cremers, ICCV, 2011\n[1]Dense Visual SLAM for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the Int. Conf. on Intelligent Robot Systems (IROS), 2013. [2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013 [3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.\nOnline Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014 Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013\n[1] Raúl Mur-Artal, J. M. M. Montiel and Juan D. Tardós. ORB-SLAM: A Versatile and Accurate Monocular SLAM System. IEEE > Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, 2015. (2015 IEEE Transactions on Robotics Best Paper Award). [2] Dorian Gálvez-López and Juan D. Tardós. Bags of Binary Words for Fast Place Recognition in Image Sequences. IEEE Transactions on Robotics, vol. 28, no. 5, pp. 1188-1197, 2012.\nKahler, O. and Prisacariu, V.~A. and Ren, C.~Y. and Sun, X. and Torr, P.~H.~S and Murray, D.~W. Very High Frame Rate Volumetric Integration of Depth Images on Mobile Device. IEEE Transactions on Visualization and Computer Graphics (Proceedings International Symposium on Mixed and Augmented Reality 2015\nReal-time Large Scale Dense RGB-D SLAM with Volumetric Fusion, T. Whelan, M. Kaess, H. Johannsson, M.F. Fallon, J. J. Leonard and J.B. McDonald, IJRR '14\n[1] ElasticFusion: Real-Time Dense SLAM and Light Source Estimation, T. Whelan, R. F. Salas-Moreno, B. Glocker, A. J. Davison and S. Leutenegger, IJRR '16 [2] ElasticFusion: Dense SLAM Without A Pose Graph, T. Whelan, S. Leutenegger, R. F. Salas-Moreno, B. Glocker and A. J. Davison, RSS '15\nMartin Rünz and Lourdes Agapito. Co-Fusion: Real-time Segmentation, Tracking and Fusion of Multiple Objects. 2017 IEEE International Conference on Robotics and Automation (ICRA)",
@@ -416,8 +439,9 @@
                 "last_commit": "2024-01-05T19:21:01Z",
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7949
-              }
+                "stars": 7951
+              },
+              "first_seen": "2026-08-28T21:31:54.753Z"
             }
           ],
           "description": null,
@@ -443,7 +467,8 @@
             "owner": "BertaBescos",
             "repo": "DynaSLAM",
             "stars": 945
-          }
+          },
+          "first_seen": "2026-08-28T21:31:54.753Z"
         },
         {
           "node_type": "item",
@@ -458,14 +483,15 @@
             "owner": "xdspacelab",
             "repo": "openvslam",
             "stars": 2976
-          }
+          },
+          "first_seen": "2026-08-28T21:31:54.753Z"
         }
       ],
       "title": "Other open source projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:19:20.641Z",
+    "last_updated": "2026-08-28T21:31:54.753Z",
     "original_repository_info": {
       "archived": false,
       "id": 63038123,
