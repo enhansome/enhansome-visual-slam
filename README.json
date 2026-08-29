@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ implementation of Lie Groups using Eigen.",
+                "homepage": null,
                 "id": 2926200,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-06T18:06:55Z",
+                "open_issues": 15,
                 "owner": "strasdat",
                 "repo": "Sophus",
-                "stars": 2449
+                "stars": 2449,
+                "topics": [
+                  "2d",
+                  "3d",
+                  "c-plus-plus",
+                  "computer-vision",
+                  "geometry",
+                  "graphics",
+                  "math",
+                  "python",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             }
@@ -35,12 +50,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source C++ library developed and used at Facebook.",
+                "homepage": null,
                 "id": 4524181,
                 "language": "C++",
-                "last_commit": "2026-08-28T20:16:21Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:50:55Z",
+                "open_issues": 465,
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30513
+                "stars": 30515,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             },
@@ -51,12 +71,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11",
+                "homepage": null,
                 "id": 26255337,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-11T17:15:50Z",
+                "open_issues": 77,
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12471
+                "stars": 12471,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             }
@@ -74,12 +99,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A large scale non-linear optimization library",
+                "homepage": "http://ceres-solver.org/",
                 "id": 15667250,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T16:02:05Z",
+                "open_issues": 68,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4548
+                "stars": 4548,
+                "topics": [
+                  "bfgs",
+                  "bundle-adjustment",
+                  "c-plus-plus",
+                  "computer-vision",
+                  "conjugate-gradient",
+                  "gauss-newton",
+                  "l-bfgs",
+                  "levenberg-marquardt",
+                  "nonlinear-least-squares",
+                  "nonlinear-optimization-algorithms",
+                  "nonlinear-programming",
+                  "numerical-optimization",
+                  "structure-from-motion",
+                  "trust-region"
+                ]
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             },
@@ -90,12 +135,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "g2o: A General Framework for Graph Optimization",
+                "homepage": null,
                 "id": 3161336,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-24T19:33:04Z",
+                "open_issues": 7,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3461
+                "stars": 3461,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "g2o",
+                  "graph-optimization",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             }
@@ -113,12 +169,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Efficient Probabilistic 3D Mapping Framework Based on Octrees. Contains the main OctoMap library, the viewer octovis, and dynamicEDT3D.",
+                "homepage": "http://octomap.github.io/octomap/",
                 "id": 7222017,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-02T17:47:50Z",
+                "open_issues": 44,
                 "owner": "OctoMap",
                 "repo": "octomap",
-                "stars": 2364
+                "stars": 2364,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             },
@@ -129,12 +190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal grid map library for mobile robotic mapping",
+                "homepage": null,
                 "id": 715170464,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-11-17T14:19:47Z",
+                "open_issues": 0,
                 "owner": "ethz-asl",
                 "repo": "grid_map",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             },
@@ -145,12 +211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://github.com/CogRob/omnimapper",
                 "id": 137003758,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-06-26T06:59:25Z",
+                "open_issues": 0,
                 "owner": "CognitiveRobotics",
                 "repo": "omnimapper",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             }
@@ -172,12 +243,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python package for the evaluation of odometry and SLAM",
+            "homepage": "https://michaelgrupp.github.io/evo/",
             "id": 103442898,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-14T16:14:03Z",
+            "open_issues": 9,
             "owner": "MichaelGrupp",
             "repo": "evo",
-            "stars": 4310
+            "stars": 4310,
+            "topics": [
+              "benchmark",
+              "euroc",
+              "evaluation",
+              "kitti",
+              "mapping",
+              "metrics",
+              "odometry",
+              "robotics",
+              "ros",
+              "ros2",
+              "slam",
+              "trajectory",
+              "trajectory-analysis",
+              "trajectory-evaluation",
+              "tum"
+            ]
           },
           "first_seen": "2026-08-28T21:31:54.753Z"
         },
@@ -188,12 +280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VDO-SLAM: A Visual Dynamic Object-aware SLAM System",
+            "homepage": null,
             "id": 226221728,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-25T07:21:24Z",
+            "open_issues": 27,
             "owner": "halajun",
             "repo": "VDO_SLAM",
-            "stars": 809
+            "stars": 809,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:54.753Z"
         }
@@ -212,12 +309,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Index repo for Kimera code",
+                "homepage": null,
                 "id": 208689257,
                 "language": null,
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-01-30T22:12:14Z",
+                "open_issues": 2,
                 "owner": "MIT-SPARK",
                 "repo": "Kimera",
-                "stars": 2119
+                "stars": 2119,
+                "topics": [
+                  "3d-reconstruction",
+                  "computer-vision",
+                  "robotics",
+                  "semantics",
+                  "slam",
+                  "visual-inertial-odometry"
+                ]
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             },
@@ -228,12 +337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PTAM (Parallel Tracking and Mapping) re-released under GPLv3.",
+                "homepage": null,
                 "id": 13823564,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2014-12-03T18:44:47Z",
+                "open_issues": 17,
                 "owner": "Oxford-PTAM",
                 "repo": "PTAM-GPL",
-                "stars": 806
+                "stars": 806,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             },
@@ -244,12 +358,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS wrapper for dso",
+                "homepage": null,
                 "id": 68177797,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2018-12-03T20:00:58Z",
+                "open_issues": 22,
                 "owner": "JakobEngel",
                 "repo": "dso_ros",
-                "stars": 329
+                "stars": 329,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             },
@@ -260,12 +379,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LSD-SLAM",
+                "homepage": null,
                 "id": 23995982,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-23T14:55:27Z",
+                "open_issues": 240,
                 "owner": "tum-vision",
                 "repo": "lsd_slam",
-                "stars": 2724
+                "stars": 2724,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             },
@@ -276,12 +400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Versatile and Accurate Monocular SLAM",
+                "homepage": "http://webdiis.unizar.es/~raulmur/orbslam/",
                 "id": 31615024,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2022-09-18T00:48:53Z",
+                "open_issues": 121,
                 "owner": "raulmur",
                 "repo": "ORB_SLAM",
-                "stars": 1632
+                "stars": 1632,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             },
@@ -292,12 +421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An OpenCV based implementation of Monocular Visual Odometry",
+                "homepage": null,
                 "id": 37086130,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-04-18T17:27:22Z",
+                "open_issues": 15,
                 "owner": "avisingh599",
                 "repo": "mono-vo",
-                "stars": 821
+                "stars": 821,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             },
@@ -308,12 +442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Semi-direct Visual Odometry",
+                "homepage": null,
                 "id": 17672262,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2019-08-22T21:27:36Z",
+                "open_issues": 193,
                 "owner": "uzh-rpg",
                 "repo": "rpg_svo",
-                "stars": 2230
+                "stars": 2230,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             }
@@ -331,12 +470,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":snowman: OpenCV RGBD-Odometry (Visual Odometry based RGB-D images)",
+                "homepage": null,
                 "id": 55118079,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2017-05-31T07:51:02Z",
+                "open_issues": 4,
                 "owner": "tzutalin",
                 "repo": "OpenCV-RgbdOdometry",
-                "stars": 120
+                "stars": 120,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             },
@@ -347,12 +491,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dense Visual Odometry and SLAM",
+                "homepage": null,
                 "id": 12110125,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2016-09-21T19:57:35Z",
+                "open_issues": 53,
                 "owner": "tum-vision",
                 "repo": "dvo_slam",
-                "stars": 669
+                "stars": 669,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             },
@@ -363,12 +512,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RTAB-Map library and standalone application",
+                "homepage": "https://introlab.github.io/rtabmap",
                 "id": 22850110,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:56:14Z",
+                "open_issues": 581,
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 3973
+                "stars": 3973,
+                "topics": [
+                  "android",
+                  "ios",
+                  "localization",
+                  "mapping",
+                  "project-tango",
+                  "robotics",
+                  "ros",
+                  "ros2",
+                  "scanning",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             },
@@ -379,12 +544,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities",
+                "homepage": null,
                 "id": 50255244,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-15T07:48:28Z",
+                "open_issues": 805,
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10224
+                "stars": 10224,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             },
@@ -395,12 +565,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time large scale dense visual SLAM system",
+                "homepage": null,
                 "id": 44748381,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-26T16:45:24Z",
+                "open_issues": 43,
                 "owner": "mp3guy",
                 "repo": "Kintinuous",
-                "stars": 954
+                "stars": 954,
+                "topics": [
+                  "cuda",
+                  "reconstruction",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             },
@@ -411,12 +590,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time dense visual SLAM system",
+                "homepage": null,
                 "id": 44748564,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-03T10:04:09Z",
+                "open_issues": 4,
                 "owner": "mp3guy",
                 "repo": "ElasticFusion",
-                "stars": 1928
+                "stars": 1928,
+                "topics": [
+                  "cuda",
+                  "reconstruction",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             }
@@ -434,12 +622,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.",
+                "homepage": null,
                 "id": 64732358,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-05T19:21:01Z",
+                "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7951
+                "stars": 7951,
+                "topics": [
+                  "localization",
+                  "mapping",
+                  "robotics",
+                  "self-driving",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
             }
@@ -461,12 +660,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DynaSLAM is a SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups",
+            "homepage": "https://bertabescos.github.io/DynaSLAM/",
             "id": 122993589,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2020-03-18T17:42:02Z",
+            "open_issues": 64,
             "owner": "BertaBescos",
             "repo": "DynaSLAM",
-            "stars": 945
+            "stars": 945,
+            "topics": [
+              "dynamic",
+              "inpainting",
+              "monocular",
+              "rgb-d",
+              "slam",
+              "stereo"
+            ]
           },
           "first_seen": "2026-08-28T21:31:54.753Z"
         },
@@ -477,12 +688,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "OpenVSLAM: A Versatile Visual SLAM Framework",
+            "homepage": "https://openvslam.readthedocs.io/",
             "id": 183462315,
             "language": null,
+            "license": null,
             "last_commit": "2021-02-25T06:32:26Z",
+            "open_issues": 207,
             "owner": "xdspacelab",
             "repo": "openvslam",
-            "stars": 2976
+            "stars": 2976,
+            "topics": [
+              "computer-vision",
+              "fisheye",
+              "panorama",
+              "robotics",
+              "slam",
+              "visual-odometry",
+              "visual-slam",
+              "vr",
+              "vslam"
+            ]
           },
           "first_seen": "2026-08-28T21:31:54.753Z"
         }
@@ -491,15 +717,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:31:54.753Z",
+    "last_updated": "2026-08-29T04:25:57.172Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
+      "homepage": null,
       "id": 63038123,
       "language": null,
+      "license": null,
       "last_commit": "2022-05-10T17:57:19Z",
+      "open_issues": 3,
       "owner": "tzutalin",
       "repo": "awesome-visual-slam",
-      "stars": 2429
+      "stars": 2429,
+      "topics": [
+        "books",
+        "computervision",
+        "learning",
+        "point-cloud",
+        "reconstruction",
+        "ros",
+        "slam"
+      ]
     },
     "original_repository_sha": "f07c5a3faa9dc94d5d028f4d7f05aa42da0e0433",
     "enhanced_repository": "enhansome/enhansome-visual-slam",

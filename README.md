@@ -23,7 +23,7 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,513 | 🐛 465 | 🌐 C++ | 📅 2026-08-28
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,515 | 🐛 465 | 🌐 C++ | 📅 2026-08-29
 * [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,471 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
