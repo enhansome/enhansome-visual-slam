@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "strasdat",
                 "repo": "Sophus",
-                "stars": 2450,
+                "stars": 2451,
                 "topics": [
                   "2d",
                   "3d",
@@ -55,11 +55,11 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T15:03:18Z",
+                "last_commit": "2026-09-04T08:14:19Z",
                 "open_issues": 465,
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30526,
+                "stars": 30528,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -80,7 +80,7 @@
                 "open_issues": 77,
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12477,
+                "stars": 12479,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -108,7 +108,7 @@
                 "open_issues": 68,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4551,
+                "stars": 4553,
                 "topics": [
                   "bfgs",
                   "bundle-adjustment",
@@ -144,7 +144,7 @@
                 "open_issues": 6,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3462,
+                "stars": 3463,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -248,11 +248,11 @@
             "id": 103442898,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T12:41:35Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-03T15:33:33Z",
+            "open_issues": 7,
             "owner": "MichaelGrupp",
             "repo": "evo",
-            "stars": 4311,
+            "stars": 4312,
             "topics": [
               "benchmark",
               "euroc",
@@ -318,7 +318,7 @@
                 "open_issues": 2,
                 "owner": "MIT-SPARK",
                 "repo": "Kimera",
-                "stars": 2123,
+                "stars": 2124,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -521,7 +521,7 @@
                 "open_issues": 580,
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 3983,
+                "stars": 3982,
                 "topics": [
                   "android",
                   "ios",
@@ -550,10 +550,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2024-05-15T07:48:28Z",
-                "open_issues": 805,
+                "open_issues": 806,
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10230,
+                "stars": 10231,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -631,7 +631,7 @@
                 "open_issues": 240,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7953,
+                "stars": 7956,
                 "topics": [
                   "localization",
                   "mapping",
@@ -669,7 +669,7 @@
             "open_issues": 64,
             "owner": "BertaBescos",
             "repo": "DynaSLAM",
-            "stars": 945,
+            "stars": 946,
             "topics": [
               "dynamic",
               "inpainting",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T15:14:30.312Z",
+    "last_updated": "2026-09-04T15:09:14.133Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
