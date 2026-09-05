@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "strasdat",
                 "repo": "Sophus",
-                "stars": 2451,
+                "stars": 2450,
                 "topics": [
                   "2d",
                   "3d",
@@ -55,11 +55,11 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T08:14:19Z",
+                "last_commit": "2026-09-05T04:11:52Z",
                 "open_issues": 465,
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30528,
+                "stars": 30529,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -80,7 +80,7 @@
                 "open_issues": 77,
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12479,
+                "stars": 12482,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -178,7 +178,7 @@
                 "open_issues": 44,
                 "owner": "OctoMap",
                 "repo": "octomap",
-                "stars": 2366,
+                "stars": 2367,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -521,7 +521,7 @@
                 "open_issues": 580,
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 3982,
+                "stars": 3983,
                 "topics": [
                   "android",
                   "ios",
@@ -553,7 +553,7 @@
                 "open_issues": 806,
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10231,
+                "stars": 10230,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T15:09:14.133Z",
+    "last_updated": "2026-09-05T14:00:57.877Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
