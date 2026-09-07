@@ -23,8 +23,8 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,531 | 🐛 465 | 🌐 C++ | 📅 2026-09-05
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,483 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,532 | 🐛 466 | 🌐 C++ | 📅 2026-09-07
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,484 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
 ###### Loop detection
@@ -33,8 +33,8 @@
 
 ###### Graph Optimization
 
-* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,554 | 🐛 65 | 🌐 C++ | 📅 2026-08-19
-* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,463 | 🐛 6 | 🌐 C++ | 📅 2026-08-31
+* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,555 | 🐛 65 | 🌐 C++ | 📅 2026-08-19
+* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,462 | 🐛 6 | 🌐 C++ | 📅 2026-08-31
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
 
@@ -94,7 +94,7 @@ Dataset for benchmark/test/experiment/evalutation
 > \[1] Raúl Mur-Artal, J. M. M. Montiel and Juan D. Tardós. ORB-SLAM: A Versatile and Accurate Monocular SLAM System. IEEE > Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, 2015. (2015 IEEE Transactions on Robotics Best Paper Award). PDF.
 > \[2] Dorian Gálvez-López and Juan D. Tardós. Bags of Binary Words for Fast Place Recognition in Image Sequences. IEEE > Transactions on Robotics, vol. 28, no. 5, pp. 1188-1197, 2012. PDF.
 
-* [Nister's Five Point Algorithm for Essential Matrix estimation, and FAST features, with a KLT tracker](https://github.com/avisingh599/mono-vo) ⭐ 821 | 🐛 15 | 🌐 C++ | 📅 2017-04-18
+* [Nister's Five Point Algorithm for Essential Matrix estimation, and FAST features, with a KLT tracker](https://github.com/avisingh599/mono-vo) ⭐ 822 | 🐛 15 | 🌐 C++ | 📅 2017-04-18
 
 > D. Nister, “An efficient solution to the five-point relative pose problem,” Pattern Analysis and Machine Intelligence, IEEE Transactions on, vol. 26, no. 6, pp. 756–770, 2004.
 
@@ -114,7 +114,7 @@ Dataset for benchmark/test/experiment/evalutation
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 3,985 | 🐛 580 | 🌐 C++ | 📅 2026-08-31. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 3,987 | 🐛 581 | 🌐 C++ | 📅 2026-08-31. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
@@ -143,7 +143,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ###### RGBD and LIDAR:
 
-* [Google's cartographer](https://github.com/googlecartographer/cartographer) ⭐ 7,957 | 🐛 240 | 🌐 C++ | 📅 2024-01-05. Available on ROS
+* [Google's cartographer](https://github.com/googlecartographer/cartographer) ⭐ 7,958 | 🐛 240 | 🌐 C++ | 📅 2024-01-05. Available on ROS
 
 ## Other open source projects
 
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
