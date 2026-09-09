@@ -1,6 +1,6 @@
 # Awesome The list of vision-based SLAM / Visual Odometry open source projects, libraries, dataset, tools, and studies with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,430 | 🐛 3 | 📅 2022-05-10
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,429 | 🐛 3 | 📅 2022-05-10
 
 ## Index
 
@@ -23,8 +23,8 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,532 | 🐛 472 | 🌐 C++ | 📅 2026-09-07
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,485 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,534 | 🐛 472 | 🌐 C++ | 📅 2026-09-09
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,486 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
 ###### Loop detection
@@ -34,13 +34,13 @@
 ###### Graph Optimization
 
 * [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,558 | 🐛 65 | 🌐 C++ | 📅 2026-08-19
-* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,463 | 🐛 6 | 🌐 C++ | 📅 2026-09-07
+* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,465 | 🐛 6 | 🌐 C++ | 📅 2026-09-07
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
 
 ###### Map library
 
-* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,368 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
+* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,369 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
 * [ETHZ ASL/Grid Map](https://github.com/ethz-asl/grid_map) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2023-11-17
 * [OmniMapper](https://github.com/CognitiveRobotics/omnimapper/wiki) ⭐ 1 | 🐛 0 | 📅 2018-06-26
 
@@ -62,7 +62,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Tools
 
-* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,313 | 🐛 8 | 🌐 Python | 📅 2026-09-08
+* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,313 | 🐛 7 | 🌐 Python | 📅 2026-09-08
 * [VDO\_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) ⭐ 809 | 🐛 27 | 🌐 C++ | 📅 2023-05-25
 * [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 
@@ -98,7 +98,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 > D. Nister, “An efficient solution to the five-point relative pose problem,” Pattern Analysis and Machine Intelligence, IEEE Transactions on, vol. 26, no. 6, pp. 756–770, 2004.
 
-* [SVO-SLAM](https://github.com/uzh-rpg/rpg_svo) ⭐ 2,231 | 🐛 193 | 🌐 C++ | 📅 2019-08-22. Available on ROS
+* [SVO-SLAM](https://github.com/uzh-rpg/rpg_svo) ⭐ 2,230 | 🐛 193 | 🌐 C++ | 📅 2019-08-22. Available on ROS
 
 > Christian Forster, Matia Pizzoli, Davide Scaramuzza, "SVO: Fast Semi-direct Monocular Visual Odometry," IEEE International Conference on Robotics and Automation, 2014.
 
@@ -114,7 +114,7 @@ Dataset for benchmark/test/experiment/evalutation
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 3,990 | 🐛 582 | 🌐 C++ | 📅 2026-09-08. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 3,991 | 🐛 583 | 🌐 C++ | 📅 2026-09-08. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
@@ -143,7 +143,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ###### RGBD and LIDAR:
 
-* [Google's cartographer](https://github.com/googlecartographer/cartographer) ⭐ 7,959 | 🐛 240 | 🌐 C++ | 📅 2024-01-05. Available on ROS
+* [Google's cartographer](https://github.com/googlecartographer/cartographer) ⭐ 7,962 | 🐛 241 | 🌐 C++ | 📅 2024-01-05. Available on ROS
 
 ## Other open source projects
 
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

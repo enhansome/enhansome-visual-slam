@@ -55,11 +55,11 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T15:06:40Z",
+                "last_commit": "2026-09-09T08:35:58Z",
                 "open_issues": 472,
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30532,
+                "stars": 30534,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -80,7 +80,7 @@
                 "open_issues": 77,
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12485,
+                "stars": 12486,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -144,7 +144,7 @@
                 "open_issues": 6,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3463,
+                "stars": 3465,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -178,7 +178,7 @@
                 "open_issues": 44,
                 "owner": "OctoMap",
                 "repo": "octomap",
-                "stars": 2368,
+                "stars": 2369,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -248,8 +248,8 @@
             "id": 103442898,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T12:07:11Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-08T16:20:46Z",
+            "open_issues": 7,
             "owner": "MichaelGrupp",
             "repo": "evo",
             "stars": 4313,
@@ -451,7 +451,7 @@
                 "open_issues": 193,
                 "owner": "uzh-rpg",
                 "repo": "rpg_svo",
-                "stars": 2231,
+                "stars": 2230,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -517,11 +517,11 @@
                 "id": 22850110,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T04:43:05Z",
-                "open_issues": 582,
+                "last_commit": "2026-09-08T18:21:53Z",
+                "open_issues": 583,
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 3990,
+                "stars": 3991,
                 "topics": [
                   "android",
                   "ios",
@@ -628,10 +628,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2024-01-05T19:21:01Z",
-                "open_issues": 240,
+                "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7959,
+                "stars": 7962,
                 "topics": [
                   "localization",
                   "mapping",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T15:22:25.971Z",
+    "last_updated": "2026-09-09T15:20:43.596Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
@@ -729,7 +729,7 @@
       "open_issues": 3,
       "owner": "tzutalin",
       "repo": "awesome-visual-slam",
-      "stars": 2430,
+      "stars": 2429,
       "topics": [
         "books",
         "computervision",
