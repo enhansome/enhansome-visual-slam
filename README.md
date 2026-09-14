@@ -15,7 +15,7 @@
 
 ###### Basic vision and trasformation libraries
 
-* [Sophus](https://github.com/strasdat/Sophus) ⭐ 2,452 | 🐛 15 | 🌐 C++ | 📅 2024-07-06
+* [Sophus](https://github.com/strasdat/Sophus) ⭐ 2,454 | 🐛 15 | 🌐 C++ | 📅 2024-07-06
 * [OpenCV](http://opencv.org/)
 * [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
 * [ROS](http://www.ros.org/)
@@ -23,7 +23,7 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,536 | 🐛 476 | 🌐 C++ | 📅 2026-09-13
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,537 | 🐛 478 | 🌐 C++ | 📅 2026-09-14
 * [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,489 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
@@ -33,14 +33,14 @@
 
 ###### Graph Optimization
 
-* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,561 | 🐛 65 | 🌐 C++ | 📅 2026-08-19
+* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,562 | 🐛 65 | 🌐 C++ | 📅 2026-08-19
 * [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,466 | 🐛 6 | 🌐 C++ | 📅 2026-09-07
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
 
 ###### Map library
 
-* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,373 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
+* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,374 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
 * [ETHZ ASL/Grid Map](https://github.com/ethz-asl/grid_map) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2023-11-17
 * [OmniMapper](https://github.com/CognitiveRobotics/omnimapper/wiki) ⭐ 1 | 🐛 0 | 📅 2018-06-26
 
@@ -62,7 +62,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Tools
 
-* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,313 | 🐛 7 | 🌐 Python | 📅 2026-09-08
+* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,314 | 🐛 7 | 🌐 Python | 📅 2026-09-08
 * [VDO\_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) ⭐ 809 | 🐛 27 | 🌐 C++ | 📅 2023-05-25
 * [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 
@@ -70,7 +70,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ###### RGB (Monocular):
 
-* [Kimera](https://github.com/MIT-SPARK/Kimera) ⭐ 2,125 | 🐛 2 | 📅 2021-01-30. Available on ROS
+* [Kimera](https://github.com/MIT-SPARK/Kimera) ⭐ 2,126 | 🐛 2 | 📅 2021-01-30. Available on ROS
 
 > A. Rosinol, M. Abate, Y. Chang, L. Carlone. Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping. arXiv preprint arXiv:1910.02490.
 
@@ -114,7 +114,7 @@ Dataset for benchmark/test/experiment/evalutation
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 3,994 | 🐛 583 | 🌐 C++ | 📅 2026-09-13. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 3,996 | 🐛 582 | 🌐 C++ | 📅 2026-09-13. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
@@ -143,7 +143,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ###### RGBD and LIDAR:
 
-* [Google's cartographer](https://github.com/googlecartographer/cartographer) ⭐ 7,965 | 🐛 241 | 🌐 C++ | 📅 2024-01-05. Available on ROS
+* [Google's cartographer](https://github.com/googlecartographer/cartographer) ⭐ 7,966 | 🐛 241 | 🌐 C++ | 📅 2024-01-05. Available on ROS
 
 ## Other open source projects
 
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
