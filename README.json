@@ -55,11 +55,11 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T15:30:40Z",
+                "last_commit": "2026-09-16T14:31:14Z",
                 "open_issues": 478,
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30540,
+                "stars": 30541,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -108,7 +108,7 @@
                 "open_issues": 65,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4563,
+                "stars": 4564,
                 "topics": [
                   "bfgs",
                   "bundle-adjustment",
@@ -174,11 +174,11 @@
                 "id": 7222017,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-08-02T17:47:50Z",
+                "last_commit": "2026-09-15T20:12:50Z",
                 "open_issues": 44,
                 "owner": "OctoMap",
                 "repo": "octomap",
-                "stars": 2374,
+                "stars": 2376,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -553,7 +553,7 @@
                 "open_issues": 806,
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10232,
+                "stars": 10235,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -631,7 +631,7 @@
                 "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7968,
+                "stars": 7969,
                 "topics": [
                   "localization",
                   "mapping",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:43:09.267Z",
+    "last_updated": "2026-09-16T15:35:09.695Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
