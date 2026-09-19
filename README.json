@@ -55,11 +55,11 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T15:10:14Z",
+                "last_commit": "2026-09-19T02:08:12Z",
                 "open_issues": 479,
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30540,
+                "stars": 30542,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -108,7 +108,7 @@
                 "open_issues": 65,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4565,
+                "stars": 4566,
                 "topics": [
                   "bfgs",
                   "bundle-adjustment",
@@ -174,7 +174,7 @@
                 "id": 7222017,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-16T18:22:33Z",
+                "last_commit": "2026-09-18T18:06:30Z",
                 "open_issues": 44,
                 "owner": "OctoMap",
                 "repo": "octomap",
@@ -521,7 +521,7 @@
                 "open_issues": 582,
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 4001,
+                "stars": 4002,
                 "topics": [
                   "android",
                   "ios",
@@ -553,7 +553,7 @@
                 "open_issues": 806,
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10236,
+                "stars": 10238,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -631,7 +631,7 @@
                 "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7971,
+                "stars": 7972,
                 "topics": [
                   "localization",
                   "mapping",
@@ -669,7 +669,7 @@
             "open_issues": 64,
             "owner": "BertaBescos",
             "repo": "DynaSLAM",
-            "stars": 946,
+            "stars": 947,
             "topics": [
               "dynamic",
               "inpainting",
@@ -697,7 +697,7 @@
             "open_issues": 207,
             "owner": "xdspacelab",
             "repo": "openvslam",
-            "stars": 2975,
+            "stars": 2976,
             "topics": [
               "computer-vision",
               "fisheye",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T15:12:21.066Z",
+    "last_updated": "2026-09-19T14:50:11.328Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
@@ -729,7 +729,7 @@
       "open_issues": 3,
       "owner": "tzutalin",
       "repo": "awesome-visual-slam",
-      "stars": 2428,
+      "stars": 2427,
       "topics": [
         "books",
         "computervision",
