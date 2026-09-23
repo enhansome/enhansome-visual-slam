@@ -23,8 +23,8 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,543 | 🐛 479 | 🌐 C++ | 📅 2026-09-22
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,492 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,543 | 🐛 479 | 🌐 C++ | 📅 2026-09-23
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,494 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
 ###### Loop detection
@@ -34,13 +34,13 @@
 ###### Graph Optimization
 
 * [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,569 | 🐛 65 | 🌐 C++ | 📅 2026-08-19
-* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,467 | 🐛 7 | 🌐 C++ | 📅 2026-09-21
+* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,466 | 🐛 7 | 🌐 C++ | 📅 2026-09-21
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
 
 ###### Map library
 
-* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,378 | 🐛 44 | 🌐 C++ | 📅 2026-09-18
+* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,380 | 🐛 44 | 🌐 C++ | 📅 2026-09-18
 * [ETHZ ASL/Grid Map](https://github.com/ethz-asl/grid_map) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2023-11-17
 * [OmniMapper](https://github.com/CognitiveRobotics/omnimapper/wiki) ⭐ 1 | 🐛 0 | 📅 2018-06-26
 
@@ -62,7 +62,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Tools
 
-* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,319 | 🐛 7 | 🌐 Python | 📅 2026-09-08
+* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,321 | 🐛 7 | 🌐 Python | 📅 2026-09-08
 * [VDO\_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) ⭐ 811 | 🐛 27 | 🌐 C++ | 📅 2023-05-25
 * [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 
@@ -84,7 +84,7 @@ Dataset for benchmark/test/experiment/evalutation
 > Direct Sparse Odometry, J. Engel, V. Koltun, D. Cremers, In arXiv:1607.02565, 2016
 > A Photometrically Calibrated Benchmark For Monocular Visual Odometry, J. Engel, V. Usenko, D. Cremers, In arXiv:1607.02555, 2016
 
-* [LSD-SLAM](https://github.com/tum-vision/lsd_slam) ⭐ 2,727 | 🐛 240 | 🌐 C++ | 📅 2023-03-23. Available on ROS
+* [LSD-SLAM](https://github.com/tum-vision/lsd_slam) ⭐ 2,728 | 🐛 240 | 🌐 C++ | 📅 2023-03-23. Available on ROS
 
 > LSD-SLAM: Large-Scale Direct Monocular SLAM, J. Engel, T. Schöps, D. Cremers, ECCV '14
 > Semi-Dense Visual Odometry for a Monocular Camera, J. Engel, J. Sturm, D. Cremers, ICCV '13
@@ -98,7 +98,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 > D. Nister, “An efficient solution to the five-point relative pose problem,” Pattern Analysis and Machine Intelligence, IEEE Transactions on, vol. 26, no. 6, pp. 756–770, 2004.
 
-* [SVO-SLAM](https://github.com/uzh-rpg/rpg_svo) ⭐ 2,230 | 🐛 193 | 🌐 C++ | 📅 2019-08-22. Available on ROS
+* [SVO-SLAM](https://github.com/uzh-rpg/rpg_svo) ⭐ 2,231 | 🐛 193 | 🌐 C++ | 📅 2019-08-22. Available on ROS
 
 > Christian Forster, Matia Pizzoli, Davide Scaramuzza, "SVO: Fast Semi-direct Monocular Visual Odometry," IEEE International Conference on Robotics and Automation, 2014.
 
@@ -114,7 +114,7 @@ Dataset for benchmark/test/experiment/evalutation
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,006 | 🐛 586 | 🌐 C++ | 📅 2026-09-22. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,006 | 🐛 585 | 🌐 C++ | 📅 2026-09-22. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
@@ -132,7 +132,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 > Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion, T. Whelan, M. Kaess, H. Johannsson, M.F. Fallon, J. J. Leonard and J.B. McDonald, IJRR '14
 
-* [ElasticFusion](https://github.com/mp3guy/ElasticFusion) ⭐ 1,927 | 🐛 4 | 🌐 C++ | 📅 2025-08-03
+* [ElasticFusion](https://github.com/mp3guy/ElasticFusion) ⭐ 1,928 | 🐛 4 | 🌐 C++ | 📅 2025-08-03
 
 > \[1] ElasticFusion: Real-Time Dense SLAM and Light Source Estimation, T. Whelan, R. F. Salas-Moreno, B. Glocker, A. J. Davison and S. Leutenegger, IJRR '16
 > \[2] ElasticFusion: Dense SLAM Without A Pose Graph, T. Whelan, S. Leutenegger, R. F. Salas-Moreno, B. Glocker and A. J. Davison, RSS '15
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
