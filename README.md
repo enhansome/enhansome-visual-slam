@@ -23,8 +23,8 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,543 | 🐛 479 | 🌐 C++ | 📅 2026-09-23
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,494 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,544 | 🐛 479 | 🌐 C++ | 📅 2026-09-24
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,492 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
 ###### Loop detection
@@ -40,7 +40,7 @@
 
 ###### Map library
 
-* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,380 | 🐛 44 | 🌐 C++ | 📅 2026-09-18
+* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,382 | 🐛 44 | 🌐 C++ | 📅 2026-09-18
 * [ETHZ ASL/Grid Map](https://github.com/ethz-asl/grid_map) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2023-11-17
 * [OmniMapper](https://github.com/CognitiveRobotics/omnimapper/wiki) ⭐ 1 | 🐛 0 | 📅 2018-06-26
 
@@ -62,8 +62,8 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Tools
 
-* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,321 | 🐛 7 | 🌐 Python | 📅 2026-09-08
-* [VDO\_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) ⭐ 811 | 🐛 27 | 🌐 C++ | 📅 2023-05-25
+* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,322 | 🐛 7 | 🌐 Python | 📅 2026-09-08
+* [VDO\_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) ⭐ 812 | 🐛 27 | 🌐 C++ | 📅 2023-05-25
 * [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 
 ## Projects
@@ -114,7 +114,7 @@ Dataset for benchmark/test/experiment/evalutation
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,006 | 🐛 585 | 🌐 C++ | 📅 2026-09-22. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,009 | 🐛 585 | 🌐 C++ | 📅 2026-09-24. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
@@ -147,7 +147,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Other open source projects
 
-[DynaSLAM](https://github.com/BertaBescos/DynaSLAM) ⭐ 947 | 🐛 64 | 🌐 C++ | 📅 2020-03-18 A SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups
+[DynaSLAM](https://github.com/BertaBescos/DynaSLAM) ⭐ 948 | 🐛 64 | 🌐 C++ | 📅 2020-03-18 A SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups
 
 [openvslam](https://github.com/xdspacelab/openvslam) ⚠️ Archived A Versatile Visual SLAM Framework
 
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
