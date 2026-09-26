@@ -23,7 +23,7 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,545 | 🐛 480 | 🌐 C++ | 📅 2026-09-25
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,548 | 🐛 481 | 🌐 C++ | 📅 2026-09-26
 * [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,493 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
@@ -34,13 +34,13 @@
 ###### Graph Optimization
 
 * [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,569 | 🐛 65 | 🌐 C++ | 📅 2026-08-19
-* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,466 | 🐛 7 | 🌐 C++ | 📅 2026-09-21
+* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,466 | 🐛 4 | 🌐 C++ | 📅 2026-09-26
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
 
 ###### Map library
 
-* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,383 | 🐛 44 | 🌐 C++ | 📅 2026-09-18
+* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,383 | 🐛 44 | 🌐 C++ | 📅 2026-09-26
 * [ETHZ ASL/Grid Map](https://github.com/ethz-asl/grid_map) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2023-11-17
 * [OmniMapper](https://github.com/CognitiveRobotics/omnimapper/wiki) ⭐ 1 | 🐛 0 | 📅 2018-06-26
 
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
