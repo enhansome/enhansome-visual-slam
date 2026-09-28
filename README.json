@@ -55,11 +55,11 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T05:38:41Z",
+                "last_commit": "2026-09-28T18:18:04Z",
                 "open_issues": 481,
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30549,
+                "stars": 30551,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -80,7 +80,7 @@
                 "open_issues": 77,
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12495,
+                "stars": 12496,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -104,7 +104,7 @@
                 "id": 15667250,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-27T09:24:05Z",
+                "last_commit": "2026-09-27T16:16:06Z",
                 "open_issues": 65,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
@@ -144,7 +144,7 @@
                 "open_issues": 4,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3466,
+                "stars": 3467,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -249,7 +249,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-08T16:20:46Z",
-            "open_issues": 7,
+            "open_issues": 9,
             "owner": "MichaelGrupp",
             "repo": "evo",
             "stars": 4321,
@@ -318,7 +318,7 @@
                 "open_issues": 2,
                 "owner": "MIT-SPARK",
                 "repo": "Kimera",
-                "stars": 2130,
+                "stars": 2131,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -451,7 +451,7 @@
                 "open_issues": 193,
                 "owner": "uzh-rpg",
                 "repo": "rpg_svo",
-                "stars": 2232,
+                "stars": 2233,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -479,7 +479,7 @@
                 "open_issues": 4,
                 "owner": "tzutalin",
                 "repo": "OpenCV-RgbdOdometry",
-                "stars": 120,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -517,11 +517,11 @@
                 "id": 22850110,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-27T04:55:05Z",
-                "open_issues": 588,
+                "last_commit": "2026-09-28T16:36:25Z",
+                "open_issues": 583,
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 4012,
+                "stars": 4013,
                 "topics": [
                   "android",
                   "ios",
@@ -599,7 +599,7 @@
                 "open_issues": 4,
                 "owner": "mp3guy",
                 "repo": "ElasticFusion",
-                "stars": 1928,
+                "stars": 1930,
                 "topics": [
                   "cuda",
                   "reconstruction",
@@ -631,7 +631,7 @@
                 "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7976,
+                "stars": 7974,
                 "topics": [
                   "localization",
                   "mapping",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T15:49:36.267Z",
+    "last_updated": "2026-09-28T18:44:57.498Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
