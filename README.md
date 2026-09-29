@@ -23,8 +23,8 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,551 | 🐛 481 | 🌐 C++ | 📅 2026-09-28
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,496 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,554 | 🐛 481 | 🌐 C++ | 📅 2026-09-29
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,497 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
 ###### Loop detection
@@ -33,14 +33,14 @@
 
 ###### Graph Optimization
 
-* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,571 | 🐛 65 | 🌐 C++ | 📅 2026-09-27
-* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,467 | 🐛 4 | 🌐 C++ | 📅 2026-09-27
+* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,572 | 🐛 65 | 🌐 C++ | 📅 2026-09-29
+* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,467 | 🐛 5 | 🌐 C++ | 📅 2026-09-28
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
 
 ###### Map library
 
-* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,384 | 🐛 41 | 🌐 C++ | 📅 2026-09-26
+* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,386 | 🐛 41 | 🌐 C++ | 📅 2026-09-26
 * [ETHZ ASL/Grid Map](https://github.com/ethz-asl/grid_map) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2023-11-17
 * [OmniMapper](https://github.com/CognitiveRobotics/omnimapper/wiki) ⭐ 1 | 🐛 0 | 📅 2018-06-26
 
@@ -62,7 +62,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Tools
 
-* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,321 | 🐛 9 | 🌐 Python | 📅 2026-09-08
+* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,322 | 🐛 9 | 🌐 Python | 📅 2026-09-08
 * [VDO\_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) ⭐ 812 | 🐛 27 | 🌐 C++ | 📅 2023-05-25
 * [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 
@@ -84,7 +84,7 @@ Dataset for benchmark/test/experiment/evalutation
 > Direct Sparse Odometry, J. Engel, V. Koltun, D. Cremers, In arXiv:1607.02565, 2016
 > A Photometrically Calibrated Benchmark For Monocular Visual Odometry, J. Engel, V. Usenko, D. Cremers, In arXiv:1607.02555, 2016
 
-* [LSD-SLAM](https://github.com/tum-vision/lsd_slam) ⭐ 2,728 | 🐛 240 | 🌐 C++ | 📅 2023-03-23. Available on ROS
+* [LSD-SLAM](https://github.com/tum-vision/lsd_slam) ⭐ 2,729 | 🐛 240 | 🌐 C++ | 📅 2023-03-23. Available on ROS
 
 > LSD-SLAM: Large-Scale Direct Monocular SLAM, J. Engel, T. Schöps, D. Cremers, ECCV '14
 > Semi-Dense Visual Odometry for a Monocular Camera, J. Engel, J. Sturm, D. Cremers, ICCV '13
@@ -114,7 +114,7 @@ Dataset for benchmark/test/experiment/evalutation
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,013 | 🐛 583 | 🌐 C++ | 📅 2026-09-28. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,016 | 🐛 584 | 🌐 C++ | 📅 2026-09-28. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
@@ -143,7 +143,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ###### RGBD and LIDAR:
 
-* [Google's cartographer](https://github.com/googlecartographer/cartographer) ⭐ 7,974 | 🐛 241 | 🌐 C++ | 📅 2024-01-05. Available on ROS
+* [Google's cartographer](https://github.com/googlecartographer/cartographer) ⭐ 7,975 | 🐛 241 | 🌐 C++ | 📅 2024-01-05. Available on ROS
 
 ## Other open source projects
 
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
