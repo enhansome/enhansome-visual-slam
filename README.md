@@ -15,7 +15,7 @@
 
 ###### Basic vision and trasformation libraries
 
-* [Sophus](https://github.com/strasdat/Sophus) ⭐ 2,457 | 🐛 15 | 🌐 C++ | 📅 2024-07-06
+* [Sophus](https://github.com/strasdat/Sophus) ⭐ 2,458 | 🐛 15 | 🌐 C++ | 📅 2024-07-06
 * [OpenCV](http://opencv.org/)
 * [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
 * [ROS](http://www.ros.org/)
@@ -23,8 +23,8 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,553 | 🐛 480 | 🌐 C++ | 📅 2026-10-01
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,500 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,550 | 🐛 480 | 🌐 C++ | 📅 2026-10-02
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,499 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
 ###### Loop detection
@@ -33,7 +33,7 @@
 
 ###### Graph Optimization
 
-* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,573 | 🐛 64 | 🌐 C++ | 📅 2026-10-01
+* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,573 | 🐛 64 | 🌐 C++ | 📅 2026-10-02
 * [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,468 | 🐛 5 | 🌐 C++ | 📅 2026-09-28
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
@@ -62,7 +62,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Tools
 
-* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,322 | 🐛 8 | 🌐 Python | 📅 2026-09-08
+* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,325 | 🐛 8 | 🌐 Python | 📅 2026-09-08
 * [VDO\_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) ⭐ 812 | 🐛 27 | 🌐 C++ | 📅 2023-05-25
 * [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 
@@ -70,7 +70,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ###### RGB (Monocular):
 
-* [Kimera](https://github.com/MIT-SPARK/Kimera) ⭐ 2,131 | 🐛 2 | 📅 2021-01-30. Available on ROS
+* [Kimera](https://github.com/MIT-SPARK/Kimera) ⭐ 2,132 | 🐛 2 | 📅 2021-01-30. Available on ROS
 
 > A. Rosinol, M. Abate, Y. Chang, L. Carlone. Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping. arXiv preprint arXiv:1910.02490.
 
@@ -114,7 +114,7 @@ Dataset for benchmark/test/experiment/evalutation
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,020 | 🐛 583 | 🌐 C++ | 📅 2026-10-01. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,020 | 🐛 584 | 🌐 C++ | 📅 2026-10-02. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
