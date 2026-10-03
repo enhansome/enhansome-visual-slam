@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Sophus",
-              "description": null,
+              "description": "strasdat/Sophus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -46,7 +46,7 @@
             {
               "node_type": "item",
               "title": "Facebook folly PC",
-              "description": null,
+              "description": "facebook/folly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -55,11 +55,11 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:34:35Z",
+                "last_commit": "2026-10-03T04:32:05Z",
                 "open_issues": 480,
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30550,
+                "stars": 30551,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -67,7 +67,7 @@
             {
               "node_type": "item",
               "title": "concurrentqueue",
-              "description": null,
+              "description": "cameron314/concurrentqueue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -95,7 +95,7 @@
             {
               "node_type": "item",
               "title": "ceres-solver",
-              "description": null,
+              "description": "ceres-solver/ceres-solver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -104,7 +104,7 @@
                 "id": 15667250,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T16:50:06Z",
+                "last_commit": "2026-10-02T19:57:06Z",
                 "open_issues": 64,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
@@ -131,7 +131,7 @@
             {
               "node_type": "item",
               "title": "g2o",
-              "description": null,
+              "description": "RainerKuemmerle/g2o",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -144,7 +144,7 @@
                 "open_issues": 5,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3468,
+                "stars": 3469,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -165,7 +165,7 @@
             {
               "node_type": "item",
               "title": "OctoMap",
-              "description": null,
+              "description": "OctoMap/octomap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -186,7 +186,7 @@
             {
               "node_type": "item",
               "title": "ETHZ ASL/Grid Map",
-              "description": null,
+              "description": "ethz-asl/grid_map",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -207,7 +207,7 @@
             {
               "node_type": "item",
               "title": "OmniMapper",
-              "description": null,
+              "description": "CognitiveRobotics/omnimapper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -239,7 +239,7 @@
         {
           "node_type": "item",
           "title": "evo - evaluation tool for different trajectory formats",
-          "description": null,
+          "description": "MichaelGrupp/evo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -276,7 +276,7 @@
         {
           "node_type": "item",
           "title": "VDO_SLAM - A Visual Object-aware Dynamic SLAM library",
-          "description": null,
+          "description": "halajun/VDO_SLAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -318,7 +318,7 @@
                 "open_issues": 2,
                 "owner": "MIT-SPARK",
                 "repo": "Kimera",
-                "stars": 2132,
+                "stars": 2133,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -333,7 +333,7 @@
             {
               "node_type": "item",
               "title": "PTAM",
-              "description": null,
+              "description": "Oxford-PTAM/PTAM-GPL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -417,7 +417,7 @@
             {
               "node_type": "item",
               "title": "Nister's Five Point Algorithm for Essential Matrix estimation, and FAST features, with a KLT tracker",
-              "description": null,
+              "description": "avisingh599/mono-vo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -466,7 +466,7 @@
             {
               "node_type": "item",
               "title": "OpenCV RGBD-Odometry (Visual Odometry based RGB-D images)",
-              "description": null,
+              "description": "tzutalin/OpenCV-RgbdOdometry",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -561,7 +561,7 @@
             {
               "node_type": "item",
               "title": "Kintinuous",
-              "description": null,
+              "description": "mp3guy/Kintinuous",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -586,7 +586,7 @@
             {
               "node_type": "item",
               "title": "ElasticFusion",
-              "description": null,
+              "description": "mp3guy/ElasticFusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:50:27.977Z",
+    "last_updated": "2026-10-03T05:16:01.945Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
