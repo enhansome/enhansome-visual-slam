@@ -33,7 +33,7 @@
 
 ###### Graph Optimization
 
-* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,573 | 🐛 64 | 🌐 C++ | 📅 2026-10-02
+* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,574 | 🐛 64 | 🌐 C++ | 📅 2026-10-02
 * [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,469 | 🐛 5 | 🌐 C++ | 📅 2026-09-28
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
@@ -114,7 +114,7 @@ Dataset for benchmark/test/experiment/evalutation
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,020 | 🐛 584 | 🌐 C++ | 📅 2026-10-02. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,019 | 🐛 584 | 🌐 C++ | 📅 2026-10-02. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013

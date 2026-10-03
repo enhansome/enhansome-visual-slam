@@ -55,7 +55,7 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:32:05Z",
+                "last_commit": "2026-10-03T13:36:34Z",
                 "open_issues": 480,
                 "owner": "facebook",
                 "repo": "folly",
@@ -108,7 +108,7 @@
                 "open_issues": 64,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4573,
+                "stars": 4574,
                 "topics": [
                   "bfgs",
                   "bundle-adjustment",
@@ -521,7 +521,7 @@
                 "open_issues": 584,
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 4020,
+                "stars": 4019,
                 "topics": [
                   "android",
                   "ios",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:16:01.945Z",
+    "last_updated": "2026-10-03T15:15:03.340Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
