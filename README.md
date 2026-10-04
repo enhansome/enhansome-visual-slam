@@ -23,8 +23,8 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,551 | 🐛 480 | 🌐 C++ | 📅 2026-10-03
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,499 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,549 | 🐛 481 | 🌐 C++ | 📅 2026-10-04
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,498 | 🐛 77 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
 ###### Loop detection
@@ -33,7 +33,7 @@
 
 ###### Graph Optimization
 
-* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,574 | 🐛 64 | 🌐 C++ | 📅 2026-10-02
+* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,575 | 🐛 64 | 🌐 C++ | 📅 2026-10-04
 * [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,469 | 🐛 5 | 🌐 C++ | 📅 2026-09-28
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
@@ -51,7 +51,7 @@ Dataset for benchmark/test/experiment/evalutation
 * [TUM University](http://vision.in.tum.de/data/datasets/rgbd-dataset/download)
 * [KITTI Vision benchmark](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
 * [UNI-Freiburg](http://kaspar.informatik.uni-freiburg.de/~slamEvaluation/datasets.php)
-* [ADVIO](https://github.com/AaltoVision/ADVIO) ⭐ 273 | 🐛 11 | 🌐 Python | 📅 2019-06-06
+* [ADVIO](https://github.com/AaltoVision/ADVIO) ⭐ 274 | 🐛 11 | 🌐 Python | 📅 2019-06-06
 * [Oxford RobotCar Dataset](https://robotcar-dataset.robots.ox.ac.uk/)
 * [HRI (Honda Research Institute) Driving Datasets](https://usa.honda-ri.com/honda-driving-datasets)
 * [Argoverse](https://www.argoverse.org/data.html)
@@ -62,7 +62,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Tools
 
-* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,325 | 🐛 8 | 🌐 Python | 📅 2026-09-08
+* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,326 | 🐛 8 | 🌐 Python | 📅 2026-09-08
 * [VDO\_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) ⭐ 812 | 🐛 27 | 🌐 C++ | 📅 2023-05-25
 * [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 
@@ -114,7 +114,7 @@ Dataset for benchmark/test/experiment/evalutation
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,019 | 🐛 584 | 🌐 C++ | 📅 2026-10-02. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,019 | 🐛 585 | 🌐 C++ | 📅 2026-10-04. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
