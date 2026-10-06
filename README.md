@@ -23,7 +23,7 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,552 | 🐛 483 | 🌐 C++ | 📅 2026-10-05
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,552 | 🐛 483 | 🌐 C++ | 📅 2026-10-06
 * [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,502 | 🐛 79 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
@@ -33,8 +33,8 @@
 
 ###### Graph Optimization
 
-* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,578 | 🐛 64 | 🌐 C++ | 📅 2026-10-05
-* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,469 | 🐛 5 | 🌐 C++ | 📅 2026-09-28
+* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,578 | 🐛 64 | 🌐 C++ | 📅 2026-10-06
+* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,470 | 🐛 5 | 🌐 C++ | 📅 2026-10-05
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
 
@@ -62,7 +62,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Tools
 
-* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,325 | 🐛 6 | 🌐 Python | 📅 2026-10-05
+* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,325 | 🐛 7 | 🌐 Python | 📅 2026-10-05
 * [VDO\_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) ⭐ 812 | 🐛 27 | 🌐 C++ | 📅 2023-05-25
 * [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 
@@ -143,7 +143,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ###### RGBD and LIDAR:
 
-* [Google's cartographer](https://github.com/googlecartographer/cartographer) ⭐ 7,979 | 🐛 241 | 🌐 C++ | 📅 2024-01-05. Available on ROS
+* [Google's cartographer](https://github.com/googlecartographer/cartographer) ⭐ 7,980 | 🐛 241 | 🌐 C++ | 📅 2024-01-05. Available on ROS
 
 ## Other open source projects
 
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

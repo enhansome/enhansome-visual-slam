@@ -55,7 +55,7 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T18:51:34Z",
+                "last_commit": "2026-10-06T03:27:13Z",
                 "open_issues": 483,
                 "owner": "facebook",
                 "repo": "folly",
@@ -104,7 +104,7 @@
                 "id": 15667250,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T17:44:05Z",
+                "last_commit": "2026-10-06T09:44:05Z",
                 "open_issues": 64,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
@@ -140,11 +140,11 @@
                 "id": 3161336,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-28T19:57:50Z",
+                "last_commit": "2026-10-05T20:49:55Z",
                 "open_issues": 5,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3469,
+                "stars": 3470,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -249,7 +249,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-05T17:23:23Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "MichaelGrupp",
             "repo": "evo",
             "stars": 4325,
@@ -631,7 +631,7 @@
                 "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7979,
+                "stars": 7980,
                 "topics": [
                   "localization",
                   "mapping",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T20:18:46.840Z",
+    "last_updated": "2026-10-06T10:58:14.630Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
