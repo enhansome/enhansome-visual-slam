@@ -23,8 +23,8 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,548 | 🐛 483 | 🌐 C++ | 📅 2026-10-12
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,511 | 🐛 79 | 🌐 C++ | 📅 2026-07-11
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,552 | 🐛 483 | 🌐 C++ | 📅 2026-10-13
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,514 | 🐛 79 | 🌐 C++ | 📅 2026-07-11
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
 ###### Loop detection
@@ -34,7 +34,7 @@
 ###### Graph Optimization
 
 * [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,581 | 🐛 64 | 🌐 C++ | 📅 2026-10-11
-* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,471 | 🐛 5 | 🌐 C++ | 📅 2026-10-12
+* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,472 | 🐛 5 | 🌐 C++ | 📅 2026-10-12
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
 
@@ -62,7 +62,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Tools
 
-* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,330 | 🐛 6 | 🌐 Python | 📅 2026-10-12
+* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,332 | 🐛 6 | 🌐 Python | 📅 2026-10-12
 * [VDO\_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) ⭐ 812 | 🐛 27 | 🌐 C++ | 📅 2023-05-25
 * [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 
@@ -114,7 +114,7 @@ Dataset for benchmark/test/experiment/evalutation
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,035 | 🐛 589 | 🌐 C++ | 📅 2026-10-12. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,037 | 🐛 591 | 🌐 C++ | 📅 2026-10-12. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
