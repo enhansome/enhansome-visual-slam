@@ -55,11 +55,11 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T15:54:01Z",
+                "last_commit": "2026-10-28T11:10:29Z",
                 "open_issues": 487,
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30553,
+                "stars": 30552,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -108,7 +108,7 @@
                 "open_issues": 51,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4591,
+                "stars": 4593,
                 "topics": [
                   "bfgs",
                   "bundle-adjustment",
@@ -249,10 +249,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-26T17:48:58Z",
-            "open_issues": 6,
+            "open_issues": 0,
             "owner": "MichaelGrupp",
             "repo": "evo",
-            "stars": 4348,
+            "stars": 4351,
             "topics": [
               "benchmark",
               "euroc",
@@ -289,7 +289,7 @@
             "open_issues": 27,
             "owner": "halajun",
             "repo": "VDO_SLAM",
-            "stars": 813,
+            "stars": 812,
             "topics": []
           },
           "first_seen": "2026-08-28T21:31:54.753Z"
@@ -517,11 +517,11 @@
                 "id": 22850110,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T16:48:45Z",
-                "open_issues": 590,
+                "last_commit": "2026-10-28T06:09:10Z",
+                "open_issues": 593,
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 4060,
+                "stars": 4066,
                 "topics": [
                   "android",
                   "ios",
@@ -631,7 +631,7 @@
                 "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7996,
+                "stars": 7999,
                 "topics": [
                   "localization",
                   "mapping",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T16:52:28.889Z",
+    "last_updated": "2026-10-28T17:26:31.185Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
