@@ -55,11 +55,11 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T09:27:29Z",
+                "last_commit": "2026-11-02T20:46:11Z",
                 "open_issues": 487,
                 "owner": "meta",
                 "repo": "folly",
-                "stars": 30554,
+                "stars": 30556,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -80,7 +80,7 @@
                 "open_issues": 79,
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12531,
+                "stars": 12534,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -104,11 +104,11 @@
                 "id": 15667250,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-01T16:37:58Z",
-                "open_issues": 45,
+                "last_commit": "2026-11-02T00:38:33Z",
+                "open_issues": 44,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4597,
+                "stars": 4599,
                 "topics": [
                   "bfgs",
                   "bundle-adjustment",
@@ -140,7 +140,7 @@
                 "id": 3161336,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-26T19:57:12Z",
+                "last_commit": "2026-11-02T20:24:05Z",
                 "open_issues": 5,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
@@ -249,10 +249,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-30T09:00:26Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "MichaelGrupp",
             "repo": "evo",
-            "stars": 4353,
+            "stars": 4354,
             "topics": [
               "benchmark",
               "euroc",
@@ -517,11 +517,11 @@
                 "id": 22850110,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-01T17:09:02Z",
-                "open_issues": 593,
+                "last_commit": "2026-11-02T20:39:38Z",
+                "open_issues": 592,
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 4075,
+                "stars": 4076,
                 "topics": [
                   "android",
                   "ios",
@@ -553,7 +553,7 @@
                 "open_issues": 806,
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10270,
+                "stars": 10271,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -631,7 +631,7 @@
                 "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 8000,
+                "stars": 8001,
                 "topics": [
                   "localization",
                   "mapping",
@@ -669,7 +669,7 @@
             "open_issues": 64,
             "owner": "BertaBescos",
             "repo": "DynaSLAM",
-            "stars": 949,
+            "stars": 950,
             "topics": [
               "dynamic",
               "inpainting",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T17:15:53.733Z",
+    "last_updated": "2026-11-02T20:53:25.688Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
