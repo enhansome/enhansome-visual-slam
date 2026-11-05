@@ -21,7 +21,7 @@
                 "open_issues": 16,
                 "owner": "strasdat",
                 "repo": "Sophus",
-                "stars": 2463,
+                "stars": 2465,
                 "topics": [
                   "2d",
                   "3d",
@@ -55,8 +55,8 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T18:03:35Z",
-                "open_issues": 489,
+                "last_commit": "2026-11-05T18:56:37Z",
+                "open_issues": 490,
                 "owner": "meta",
                 "repo": "folly",
                 "stars": 30555,
@@ -80,7 +80,7 @@
                 "open_issues": 79,
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12533,
+                "stars": 12534,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -252,7 +252,7 @@
             "open_issues": 2,
             "owner": "MichaelGrupp",
             "repo": "evo",
-            "stars": 4356,
+            "stars": 4360,
             "topics": [
               "benchmark",
               "euroc",
@@ -631,7 +631,7 @@
                 "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 8001,
+                "stars": 8002,
                 "topics": [
                   "localization",
                   "mapping",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:53:18.053Z",
+    "last_updated": "2026-11-05T19:03:22.906Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
