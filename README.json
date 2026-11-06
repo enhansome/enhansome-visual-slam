@@ -55,11 +55,11 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T18:56:37Z",
-                "open_issues": 490,
+                "last_commit": "2026-11-06T18:22:47Z",
+                "open_issues": 488,
                 "owner": "meta",
                 "repo": "folly",
-                "stars": 30555,
+                "stars": 30554,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -80,7 +80,7 @@
                 "open_issues": 79,
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12534,
+                "stars": 12535,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -252,7 +252,7 @@
             "open_issues": 2,
             "owner": "MichaelGrupp",
             "repo": "evo",
-            "stars": 4360,
+            "stars": 4361,
             "topics": [
               "benchmark",
               "euroc",
@@ -318,7 +318,7 @@
                 "open_issues": 2,
                 "owner": "MIT-SPARK",
                 "repo": "Kimera",
-                "stars": 2143,
+                "stars": 2144,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -367,7 +367,7 @@
                 "open_issues": 22,
                 "owner": "JakobEngel",
                 "repo": "dso_ros",
-                "stars": 329,
+                "stars": 328,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -388,7 +388,7 @@
                 "open_issues": 240,
                 "owner": "tum-vision",
                 "repo": "lsd_slam",
-                "stars": 2733,
+                "stars": 2732,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -451,7 +451,7 @@
                 "open_issues": 193,
                 "owner": "uzh-rpg",
                 "repo": "rpg_svo",
-                "stars": 2237,
+                "stars": 2236,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -521,7 +521,7 @@
                 "open_issues": 586,
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 4079,
+                "stars": 4084,
                 "topics": [
                   "android",
                   "ios",
@@ -553,7 +553,7 @@
                 "open_issues": 806,
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10271,
+                "stars": 10270,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -628,7 +628,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2024-01-05T19:21:01Z",
-                "open_issues": 241,
+                "open_issues": 240,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
                 "stars": 8002,
@@ -697,7 +697,7 @@
             "open_issues": 207,
             "owner": "xdspacelab",
             "repo": "openvslam",
-            "stars": 2978,
+            "stars": 2977,
             "topics": [
               "computer-vision",
               "fisheye",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T19:03:22.906Z",
+    "last_updated": "2026-11-06T18:31:26.800Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
