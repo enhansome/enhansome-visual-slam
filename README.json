@@ -55,11 +55,11 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T21:35:28Z",
-                "open_issues": 488,
+                "last_commit": "2026-11-10T18:08:34Z",
+                "open_issues": 489,
                 "owner": "meta",
                 "repo": "folly",
-                "stars": 30552,
+                "stars": 30554,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -80,7 +80,7 @@
                 "open_issues": 79,
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12535,
+                "stars": 12536,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -108,7 +108,7 @@
                 "open_issues": 45,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4606,
+                "stars": 4607,
                 "topics": [
                   "bfgs",
                   "bundle-adjustment",
@@ -318,7 +318,7 @@
                 "open_issues": 2,
                 "owner": "MIT-SPARK",
                 "repo": "Kimera",
-                "stars": 2145,
+                "stars": 2147,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -521,7 +521,7 @@
                 "open_issues": 587,
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 4092,
+                "stars": 4093,
                 "topics": [
                   "android",
                   "ios",
@@ -553,7 +553,7 @@
                 "open_issues": 806,
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10273,
+                "stars": 10275,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -631,7 +631,7 @@
                 "open_issues": 240,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 8006,
+                "stars": 8008,
                 "topics": [
                   "localization",
                   "mapping",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:38:43.184Z",
+    "last_updated": "2026-11-10T18:53:17.903Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
