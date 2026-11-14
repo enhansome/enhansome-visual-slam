@@ -55,11 +55,11 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T16:17:16Z",
-                "open_issues": 491,
+                "last_commit": "2026-11-14T16:46:43Z",
+                "open_issues": 490,
                 "owner": "meta",
                 "repo": "folly",
-                "stars": 30558,
+                "stars": 30559,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -553,7 +553,7 @@
                 "open_issues": 806,
                 "owner": "raulmur",
                 "repo": "ORB_SLAM2",
-                "stars": 10269,
+                "stars": 10267,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T18:48:06.792Z",
+    "last_updated": "2026-11-14T17:19:30.466Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
