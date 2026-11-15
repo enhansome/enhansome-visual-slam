@@ -55,11 +55,11 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T16:46:43Z",
-                "open_issues": 490,
+                "last_commit": "2026-11-14T18:39:48Z",
+                "open_issues": 491,
                 "owner": "meta",
                 "repo": "folly",
-                "stars": 30559,
+                "stars": 30561,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -451,7 +451,7 @@
                 "open_issues": 193,
                 "owner": "uzh-rpg",
                 "repo": "rpg_svo",
-                "stars": 2236,
+                "stars": 2237,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -521,7 +521,7 @@
                 "open_issues": 588,
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 4103,
+                "stars": 4106,
                 "topics": [
                   "android",
                   "ios",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T17:19:30.466Z",
+    "last_updated": "2026-11-15T18:00:01.315Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
