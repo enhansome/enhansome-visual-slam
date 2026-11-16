@@ -56,7 +56,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-14T18:39:48Z",
-                "open_issues": 491,
+                "open_issues": 497,
                 "owner": "meta",
                 "repo": "folly",
                 "stars": 30561,
@@ -140,7 +140,7 @@
                 "id": 3161336,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-11-09T19:43:16Z",
+                "last_commit": "2026-11-16T19:44:56Z",
                 "open_issues": 5,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
@@ -178,7 +178,7 @@
                 "open_issues": 41,
                 "owner": "OctoMap",
                 "repo": "octomap",
-                "stars": 2400,
+                "stars": 2401,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -248,7 +248,7 @@
             "id": 103442898,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T09:00:26Z",
+            "last_commit": "2026-11-15T23:29:52Z",
             "open_issues": 3,
             "owner": "MichaelGrupp",
             "repo": "evo",
@@ -517,11 +517,11 @@
                 "id": 22850110,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T07:23:47Z",
-                "open_issues": 588,
+                "last_commit": "2026-11-16T07:52:27Z",
+                "open_issues": 589,
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 4106,
+                "stars": 4110,
                 "topics": [
                   "android",
                   "ios",
@@ -631,7 +631,7 @@
                 "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 8009,
+                "stars": 8012,
                 "topics": [
                   "localization",
                   "mapping",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T18:00:01.315Z",
+    "last_updated": "2026-11-16T21:16:08.945Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
