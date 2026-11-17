@@ -23,8 +23,8 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,561 | 🐛 497 | 🌐 C++ | 📅 2026-11-14
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,535 | 🐛 79 | 🌐 C++ | 📅 2026-10-26
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,562 | 🐛 498 | 🌐 C++ | 📅 2026-11-14
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,535 | 🐛 81 | 🌐 C++ | 📅 2026-10-26
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
 ###### Loop detection
@@ -33,14 +33,14 @@
 
 ###### Graph Optimization
 
-* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,609 | 🐛 45 | 🌐 C++ | 📅 2026-11-12
-* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,480 | 🐛 5 | 🌐 C++ | 📅 2026-11-16
+* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,610 | 🐛 45 | 🌐 C++ | 📅 2026-11-12
+* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,479 | 🐛 5 | 🌐 C++ | 📅 2026-11-16
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
 
 ###### Map library
 
-* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,401 | 🐛 41 | 🌐 C++ | 📅 2026-09-26
+* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,402 | 🐛 41 | 🌐 C++ | 📅 2026-09-26
 * [ETHZ ASL/Grid Map](https://github.com/ethz-asl/grid_map) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2023-11-17
 * [OmniMapper](https://github.com/CognitiveRobotics/omnimapper/wiki) ⭐ 1 | 🐛 0 | 📅 2018-06-26
 
@@ -114,12 +114,12 @@ Dataset for benchmark/test/experiment/evalutation
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,110 | 🐛 589 | 🌐 C++ | 📅 2026-11-16. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,111 | 🐛 589 | 🌐 C++ | 📅 2026-11-17. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
 
-* [ORB2-SLAM](https://github.com/raulmur/ORB_SLAM2) ⭐ 10,267 | 🐛 806 | 🌐 C++ | 📅 2024-05-15. Available on ROS
+* [ORB2-SLAM](https://github.com/raulmur/ORB_SLAM2) ⭐ 10,268 | 🐛 806 | 🌐 C++ | 📅 2024-05-15. Available on ROS
 
 > \[1] Raúl Mur-Artal, J. M. M. Montiel and Juan D. Tardós. ORB-SLAM: A Versatile and Accurate Monocular SLAM System. IEEE > Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, 2015. (2015 IEEE Transactions on Robotics Best Paper Award).
 > \[2] Dorian Gálvez-López and Juan D. Tardós. Bags of Binary Words for Fast Place Recognition in Image Sequences. IEEE Transactions on Robotics, vol. 28, no. 5, pp. 1188-1197, 2012.
@@ -128,7 +128,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 > Kahler, O. and Prisacariu, V.\~A. and Ren, C.\~Y. and Sun, X. and Torr, P.\~H.\~S and Murray, D.\~W. Very High Frame Rate Volumetric Integration of Depth Images on Mobile Device. IEEE Transactions on Visualization and Computer Graphics (Proceedings International Symposium on Mixed and Augmented Reality 2015
 
-* [Kintinuous](https://github.com/mp3guy/Kintinuous) ⭐ 954 | 🐛 43 | 🌐 C++ | 📅 2022-08-26
+* [Kintinuous](https://github.com/mp3guy/Kintinuous) ⭐ 955 | 🐛 43 | 🌐 C++ | 📅 2022-08-26
 
 > Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion, T. Whelan, M. Kaess, H. Johannsson, M.F. Fallon, J. J. Leonard and J.B. McDonald, IJRR '14
 
@@ -143,7 +143,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ###### RGBD and LIDAR:
 
-* [Google's cartographer](https://github.com/googlecartographer/cartographer) ⭐ 8,012 | 🐛 241 | 🌐 C++ | 📅 2024-01-05. Available on ROS
+* [Google's cartographer](https://github.com/googlecartographer/cartographer) ⭐ 8,014 | 🐛 241 | 🌐 C++ | 📅 2024-01-05. Available on ROS
 
 ## Other open source projects
 
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
