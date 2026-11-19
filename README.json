@@ -21,7 +21,7 @@
                 "open_issues": 16,
                 "owner": "strasdat",
                 "repo": "Sophus",
-                "stars": 2470,
+                "stars": 2469,
                 "topics": [
                   "2d",
                   "3d",
@@ -55,8 +55,8 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T19:32:35Z",
-                "open_issues": 498,
+                "last_commit": "2026-11-19T18:52:34Z",
+                "open_issues": 490,
                 "owner": "meta",
                 "repo": "folly",
                 "stars": 30564,
@@ -80,7 +80,7 @@
                 "open_issues": 81,
                 "owner": "cameron314",
                 "repo": "concurrentqueue",
-                "stars": 12538,
+                "stars": 12539,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -108,7 +108,7 @@
                 "open_issues": 45,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4611,
+                "stars": 4608,
                 "topics": [
                   "bfgs",
                   "bundle-adjustment",
@@ -144,7 +144,7 @@
                 "open_issues": 5,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3479,
+                "stars": 3478,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -178,7 +178,7 @@
                 "open_issues": 41,
                 "owner": "OctoMap",
                 "repo": "octomap",
-                "stars": 2404,
+                "stars": 2405,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:31:54.753Z"
@@ -252,7 +252,7 @@
             "open_issues": 3,
             "owner": "MichaelGrupp",
             "repo": "evo",
-            "stars": 4368,
+            "stars": 4369,
             "topics": [
               "benchmark",
               "euroc",
@@ -521,7 +521,7 @@
                 "open_issues": 589,
                 "owner": "introlab",
                 "repo": "rtabmap",
-                "stars": 4113,
+                "stars": 4114,
                 "topics": [
                   "android",
                   "ios",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T19:37:51.915Z",
+    "last_updated": "2026-11-19T19:38:15.844Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
