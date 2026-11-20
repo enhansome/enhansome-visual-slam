@@ -23,8 +23,8 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,564 | 🐛 490 | 🌐 C++ | 📅 2026-11-19
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,539 | 🐛 81 | 🌐 C++ | 📅 2026-10-26
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,566 | 🐛 487 | 🌐 C++ | 📅 2026-11-20
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,540 | 🐛 81 | 🌐 C++ | 📅 2026-10-26
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
 ###### Loop detection
@@ -33,14 +33,14 @@
 
 ###### Graph Optimization
 
-* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,608 | 🐛 45 | 🌐 C++ | 📅 2026-11-18
-* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,478 | 🐛 5 | 🌐 C++ | 📅 2026-11-16
+* [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,609 | 🐛 45 | 🌐 C++ | 📅 2026-11-18
+* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,479 | 🐛 5 | 🌐 C++ | 📅 2026-11-16
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
 
 ###### Map library
 
-* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,405 | 🐛 41 | 🌐 C++ | 📅 2026-09-26
+* [OctoMap](https://github.com/OctoMap/octomap) ⭐ 2,406 | 🐛 41 | 🌐 C++ | 📅 2026-09-26
 * [ETHZ ASL/Grid Map](https://github.com/ethz-asl/grid_map) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2023-11-17
 * [OmniMapper](https://github.com/CognitiveRobotics/omnimapper/wiki) ⭐ 1 | 🐛 0 | 📅 2018-06-26
 
@@ -62,7 +62,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Tools
 
-* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,369 | 🐛 3 | 🌐 Python | 📅 2026-11-15
+* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,367 | 🐛 3 | 🌐 Python | 📅 2026-11-15
 * [VDO\_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) ⭐ 812 | 🐛 27 | 🌐 C++ | 📅 2023-05-25
 * [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 
@@ -70,7 +70,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ###### RGB (Monocular):
 
-* [Kimera](https://github.com/MIT-SPARK/Kimera) ⭐ 2,148 | 🐛 2 | 📅 2021-01-30. Available on ROS
+* [Kimera](https://github.com/MIT-SPARK/Kimera) ⭐ 2,147 | 🐛 2 | 📅 2021-01-30. Available on ROS
 
 > A. Rosinol, M. Abate, Y. Chang, L. Carlone. Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping. arXiv preprint arXiv:1910.02490.
 
@@ -114,12 +114,12 @@ Dataset for benchmark/test/experiment/evalutation
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,114 | 🐛 589 | 🌐 C++ | 📅 2026-11-17. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,115 | 🐛 589 | 🌐 C++ | 📅 2026-11-17. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
 
-* [ORB2-SLAM](https://github.com/raulmur/ORB_SLAM2) ⭐ 10,269 | 🐛 806 | 🌐 C++ | 📅 2024-05-15. Available on ROS
+* [ORB2-SLAM](https://github.com/raulmur/ORB_SLAM2) ⭐ 10,273 | 🐛 806 | 🌐 C++ | 📅 2024-05-15. Available on ROS
 
 > \[1] Raúl Mur-Artal, J. M. M. Montiel and Juan D. Tardós. ORB-SLAM: A Versatile and Accurate Monocular SLAM System. IEEE > Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, 2015. (2015 IEEE Transactions on Robotics Best Paper Award).
 > \[2] Dorian Gálvez-López and Juan D. Tardós. Bags of Binary Words for Fast Place Recognition in Image Sequences. IEEE Transactions on Robotics, vol. 28, no. 5, pp. 1188-1197, 2012.
@@ -143,7 +143,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ###### RGBD and LIDAR:
 
-* [Google's cartographer](https://github.com/googlecartographer/cartographer) ⭐ 8,013 | 🐛 241 | 🌐 C++ | 📅 2024-01-05. Available on ROS
+* [Google's cartographer](https://github.com/googlecartographer/cartographer) ⭐ 8,012 | 🐛 241 | 🌐 C++ | 📅 2024-01-05. Available on ROS
 
 ## Other open source projects
 
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
