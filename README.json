@@ -21,7 +21,7 @@
                 "open_issues": 16,
                 "owner": "strasdat",
                 "repo": "Sophus",
-                "stars": 2469,
+                "stars": 2470,
                 "topics": [
                   "2d",
                   "3d",
@@ -55,8 +55,8 @@
                 "id": 4524181,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T18:32:50Z",
-                "open_issues": 487,
+                "last_commit": "2026-11-21T16:08:41Z",
+                "open_issues": 486,
                 "owner": "meta",
                 "repo": "folly",
                 "stars": 30566,
@@ -104,11 +104,11 @@
                 "id": 15667250,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T14:45:23Z",
+                "last_commit": "2026-11-20T21:15:00Z",
                 "open_issues": 45,
                 "owner": "ceres-solver",
                 "repo": "ceres-solver",
-                "stars": 4609,
+                "stars": 4611,
                 "topics": [
                   "bfgs",
                   "bundle-adjustment",
@@ -144,7 +144,7 @@
                 "open_issues": 5,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3479,
+                "stars": 3480,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -249,7 +249,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-11-15T23:29:52Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "MichaelGrupp",
             "repo": "evo",
             "stars": 4367,
@@ -631,7 +631,7 @@
                 "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 8012,
+                "stars": 8014,
                 "topics": [
                   "localization",
                   "mapping",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T19:15:56.277Z",
+    "last_updated": "2026-11-21T18:16:12.602Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
