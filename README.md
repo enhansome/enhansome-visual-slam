@@ -23,8 +23,8 @@
 
 ###### Thread-safe queue libraries
 
-* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,566 | 🐛 486 | 🌐 C++ | 📅 2026-11-21
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,540 | 🐛 81 | 🌐 C++ | 📅 2026-10-26
+* [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h) ⭐ 30,567 | 🐛 486 | 🌐 C++ | 📅 2026-11-22
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,539 | 🐛 81 | 🌐 C++ | 📅 2026-10-26
 * [Intel® TBB](https://www.threadingbuildingblocks.org/)
 
 ###### Loop detection
@@ -34,7 +34,7 @@
 ###### Graph Optimization
 
 * [ceres-solver](https://github.com/ceres-solver/ceres-solver) ⭐ 4,611 | 🐛 45 | 🌐 C++ | 📅 2026-11-20
-* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,480 | 🐛 5 | 🌐 C++ | 📅 2026-11-16
+* [g2o](https://github.com/RainerKuemmerle/g2o) ⭐ 3,480 | 🐛 5 | 🌐 C++ | 📅 2026-11-22
 * [gtsam](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
 * [Vertigo](http://openslam.org/vertigo.html)
 
@@ -62,7 +62,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 ## Tools
 
-* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,367 | 🐛 4 | 🌐 Python | 📅 2026-11-15
+* [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo) ⭐ 4,368 | 🐛 4 | 🌐 Python | 📅 2026-11-15
 * [VDO\_SLAM - A Visual Object-aware Dynamic SLAM library](https://github.com/halajun/vdo_slam) ⭐ 812 | 🐛 27 | 🌐 C++ | 📅 2023-05-25
 * [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 
@@ -98,7 +98,7 @@ Dataset for benchmark/test/experiment/evalutation
 
 > D. Nister, “An efficient solution to the five-point relative pose problem,” Pattern Analysis and Machine Intelligence, IEEE Transactions on, vol. 26, no. 6, pp. 756–770, 2004.
 
-* [SVO-SLAM](https://github.com/uzh-rpg/rpg_svo) ⭐ 2,237 | 🐛 193 | 🌐 C++ | 📅 2019-08-22. Available on ROS
+* [SVO-SLAM](https://github.com/uzh-rpg/rpg_svo) ⭐ 2,238 | 🐛 193 | 🌐 C++ | 📅 2019-08-22. Available on ROS
 
 > Christian Forster, Matia Pizzoli, Davide Scaramuzza, "SVO: Fast Semi-direct Monocular Visual Odometry," IEEE International Conference on Robotics and Automation, 2014.
 
@@ -114,7 +114,7 @@ Dataset for benchmark/test/experiment/evalutation
 > \[2]Robust Odometry Estimation for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), 2013
 > \[3]Real-Time Visual Odometry from Dense RGB-D Images (F. Steinbruecker, J. Sturm, D. Cremers), In Workshop on Live Dense Reconstruction with Moving Cameras at the Intl. Conf. on Computer Vision (ICCV), 2011.
 
-* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,115 | 🐛 589 | 🌐 C++ | 📅 2026-11-17. Available on ROS
+* [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap) ⭐ 4,117 | 🐛 585 | 🌐 C++ | 📅 2026-11-22. Available on ROS
 
 > Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
 > Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
@@ -157,4 +157,4 @@ Dataset for benchmark/test/experiment/evalutation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
